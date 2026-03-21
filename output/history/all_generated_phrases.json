@@ -149,7 +149,37 @@
       "french": "Tes progrès, sont réels.",
       "category": "Confidence",
       "generated_at": "2026-03-21T16:59:42.034908"
+    },
+    {
+      "english": "Face your fears, find your strength.",
+      "french": "Affronte tes peurs, trouve ta force.",
+      "category": "Courage",
+      "generated_at": "2026-03-21T19:45:15.500831"
+    },
+    {
+      "english": "One step forward, always progress.",
+      "french": "Un pas en avant, toujours le progrès.",
+      "category": "Courage",
+      "generated_at": "2026-03-21T19:45:15.500839"
+    },
+    {
+      "english": "Believe in yourself, you can do it.",
+      "french": "Crois en toi, tu peux le faire.",
+      "category": "Courage",
+      "generated_at": "2026-03-21T19:45:15.500840"
+    },
+    {
+      "english": "Don't give up, keep pushing.",
+      "french": "N'abandonne pas, continue d'avancer.",
+      "category": "Courage",
+      "generated_at": "2026-03-21T19:45:15.500841"
+    },
+    {
+      "english": "Be brave, embrace the challenge.",
+      "french": "Sois courageux, accepte le défi.",
+      "category": "Courage",
+      "generated_at": "2026-03-21T19:45:15.500842"
     }
   ],
-  "last_updated": "2026-03-21T16:59:42.034909"
+  "last_updated": "2026-03-21T19:45:15.500844"
 }
