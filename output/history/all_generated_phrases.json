@@ -119,7 +119,37 @@
       "french": "Esprit calme, cœur tranquille.",
       "category": "Inner Peace",
       "generated_at": "2026-03-21T14:03:00.414154"
+    },
+    {
+      "english": "Speak, even if, your voice trembles.",
+      "french": "Parlez, même si, votre voix tremble.",
+      "category": "Confidence",
+      "generated_at": "2026-03-21T16:59:42.034895"
+    },
+    {
+      "english": "Every mistake, is a lesson.",
+      "french": "Chaque erreur, est une leçon.",
+      "category": "Confidence",
+      "generated_at": "2026-03-21T16:59:42.034904"
+    },
+    {
+      "english": "You are learning, you are growing.",
+      "french": "Tu apprends, tu grandis.",
+      "category": "Confidence",
+      "generated_at": "2026-03-21T16:59:42.034906"
+    },
+    {
+      "english": "Take a breath, try again.",
+      "french": "Prends une pause, essaie encore.",
+      "category": "Confidence",
+      "generated_at": "2026-03-21T16:59:42.034907"
+    },
+    {
+      "english": "Your progress, is real.",
+      "french": "Tes progrès, sont réels.",
+      "category": "Confidence",
+      "generated_at": "2026-03-21T16:59:42.034908"
     }
   ],
-  "last_updated": "2026-03-21T14:03:00.414155"
+  "last_updated": "2026-03-21T16:59:42.034909"
 }
