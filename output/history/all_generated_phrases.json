@@ -179,7 +179,37 @@
       "french": "Sois courageux, accepte le défi.",
       "category": "Courage",
       "generated_at": "2026-03-21T19:45:15.500842"
+    },
+    {
+      "english": "Slow and steady, wins the race.",
+      "french": "Doucement, mais sûrement.",
+      "category": "Patience",
+      "generated_at": "2026-03-21T22:55:42.789820"
+    },
+    {
+      "english": "Keep trying, don't give up.",
+      "french": "Continue d'essayer, n'abandonne pas.",
+      "category": "Patience",
+      "generated_at": "2026-03-21T22:55:42.789828"
+    },
+    {
+      "english": "Every step, counts.",
+      "french": "Chaque pas, compte.",
+      "category": "Patience",
+      "generated_at": "2026-03-21T22:55:42.789829"
+    },
+    {
+      "english": "Rome wasn't built, in a day.",
+      "french": "Rome ne s'est pas faite, en un jour.",
+      "category": "Patience",
+      "generated_at": "2026-03-21T22:55:42.789830"
+    },
+    {
+      "english": "Small progress, is still progress.",
+      "french": "Le petit progrès, est quand même un progrès.",
+      "category": "Patience",
+      "generated_at": "2026-03-21T22:55:42.789831"
     }
   ],
-  "last_updated": "2026-03-21T19:45:15.500844"
+  "last_updated": "2026-03-21T22:55:42.789833"
 }
