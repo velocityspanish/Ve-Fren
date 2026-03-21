@@ -89,7 +89,37 @@
       "french": "Un sourire, qui s'élargit.",
       "category": "Joy",
       "generated_at": "2026-03-21T05:00:01.063903"
+    },
+    {
+      "english": "Breathe in, breathe out, peace.",
+      "french": "Inspire, expire, paix.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-21T14:03:00.414141"
+    },
+    {
+      "english": "Stillness, my friend, stillness.",
+      "french": "Le calme, mon ami, le calme.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-21T14:03:00.414150"
+    },
+    {
+      "english": "Find your center, gently.",
+      "french": "Trouve ton centre, doucement.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-21T14:03:00.414151"
+    },
+    {
+      "english": "Let go, of worries.",
+      "french": "Lâche prise, des soucis.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-21T14:03:00.414153"
+    },
+    {
+      "english": "Quiet mind, calm heart.",
+      "french": "Esprit calme, cœur tranquille.",
+      "category": "Inner Peace",
+      "generated_at": "2026-03-21T14:03:00.414154"
     }
   ],
-  "last_updated": "2026-03-21T05:00:01.063905"
+  "last_updated": "2026-03-21T14:03:00.414155"
 }
