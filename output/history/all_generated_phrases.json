@@ -209,7 +209,37 @@
       "french": "Le petit progrès, est quand même un progrès.",
       "category": "Patience",
       "generated_at": "2026-03-21T22:55:42.789831"
+    },
+    {
+      "english": "Keep going, don't give up.",
+      "french": "Continue, n'abandonne pas.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-22T05:35:31.314452"
+    },
+    {
+      "english": "One step, then another.",
+      "french": "Un pas, puis un autre.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-22T05:35:31.314462"
+    },
+    {
+      "english": "Little by little, progress is made.",
+      "french": "Petit à petit, on avance.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-22T05:35:31.314463"
+    },
+    {
+      "english": "You are stronger, than you think.",
+      "french": "Tu es plus fort, que tu ne crois.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-22T05:35:31.314464"
+    },
+    {
+      "english": "Mistakes help us learn.",
+      "french": "Les erreurs nous aident.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-22T05:35:31.314465"
     }
   ],
-  "last_updated": "2026-03-21T22:55:42.789833"
+  "last_updated": "2026-03-22T05:35:31.314467"
 }
