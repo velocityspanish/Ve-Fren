@@ -269,7 +269,37 @@
       "french": "Tiens-toi droit, affronte l'inconnu.",
       "category": "Courage",
       "generated_at": "2026-03-22T14:05:05.625555"
+    },
+    {
+      "english": "Believe in, your French.",
+      "french": "Crois en, ton français.",
+      "category": "Confidence",
+      "generated_at": "2026-03-22T17:00:40.356918"
+    },
+    {
+      "english": "You can do, this.",
+      "french": "Tu peux faire, ça.",
+      "category": "Confidence",
+      "generated_at": "2026-03-22T17:00:40.356927"
+    },
+    {
+      "english": "Little by little, you will.",
+      "french": "Petit à petit, tu réussiras.",
+      "category": "Confidence",
+      "generated_at": "2026-03-22T17:00:40.356929"
+    },
+    {
+      "english": "Embrace the journey.",
+      "french": "Accueille le voyage.",
+      "category": "Confidence",
+      "generated_at": "2026-03-22T17:00:40.356930"
+    },
+    {
+      "english": "Your voice, matters.",
+      "french": "Ta voix, compte.",
+      "category": "Confidence",
+      "generated_at": "2026-03-22T17:00:40.356931"
     }
   ],
-  "last_updated": "2026-03-22T14:05:05.625558"
+  "last_updated": "2026-03-22T17:00:40.356933"
 }
