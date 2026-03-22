@@ -299,7 +299,37 @@
       "french": "Ta voix, compte.",
       "category": "Confidence",
       "generated_at": "2026-03-22T17:00:40.356931"
+    },
+    {
+      "english": "Listen carefully, speak later.",
+      "french": "Écoute bien, parle après.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-22T19:47:18.691582"
+    },
+    {
+      "english": "Small steps, big journey.",
+      "french": "Petits pas, grand voyage.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-22T19:47:18.691592"
+    },
+    {
+      "english": "Learn daily, grow always.",
+      "french": "Apprends chaque jour, grandis toujours.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-22T19:47:18.691594"
+    },
+    {
+      "english": "Mistakes happen, learn from them.",
+      "french": "Les erreurs arrivent, apprends d'elles.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-22T19:47:18.691596"
+    },
+    {
+      "english": "Be patient, progress comes.",
+      "french": "Sois patient, le progrès vient.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-22T19:47:18.691597"
     }
   ],
-  "last_updated": "2026-03-22T17:00:40.356933"
+  "last_updated": "2026-03-22T19:47:18.691604"
 }
