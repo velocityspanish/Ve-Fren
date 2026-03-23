@@ -419,7 +419,37 @@
       "french": "Un mot, un pas, un jour.",
       "category": "Wisdom",
       "generated_at": "2026-03-23T18:35:10.244941"
+    },
+    {
+      "english": "Learn daily, improve greatly.",
+      "french": "Apprends, tous les jours, progresse.",
+      "category": "Growth",
+      "generated_at": "2026-03-23T21:28:03.545881"
+    },
+    {
+      "english": "Practice makes, perfect progress.",
+      "french": "La pratique, mène au progrès.",
+      "category": "Growth",
+      "generated_at": "2026-03-23T21:28:03.545890"
+    },
+    {
+      "english": "Embrace mistakes, they teach.",
+      "french": "Accepte tes erreurs, elles enseignent.",
+      "category": "Growth",
+      "generated_at": "2026-03-23T21:28:03.545891"
+    },
+    {
+      "english": "Be curious, stay learning.",
+      "french": "Sois curieux, continue d'apprendre.",
+      "category": "Growth",
+      "generated_at": "2026-03-23T21:28:03.545892"
+    },
+    {
+      "english": "Don't give up, try again.",
+      "french": "N'abandonne pas, réessaie.",
+      "category": "Growth",
+      "generated_at": "2026-03-23T21:28:03.545893"
     }
   ],
-  "last_updated": "2026-03-23T18:35:10.244942"
+  "last_updated": "2026-03-23T21:28:03.545895"
 }
