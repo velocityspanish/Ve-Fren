@@ -479,7 +479,37 @@
       "french": "Tellement heureux, je ne peux dire.",
       "category": "Joy",
       "generated_at": "2026-03-23T23:05:35.187315"
+    },
+    {
+      "english": "Just thinking, of you, smiles.",
+      "french": "Te penser, me fait, sourire.",
+      "category": "Love",
+      "generated_at": "2026-03-24T16:41:48.847900"
+    },
+    {
+      "english": "You're my, true, love.",
+      "french": "Tu es, mon vrai, amour.",
+      "category": "Love",
+      "generated_at": "2026-03-24T16:41:48.847906"
+    },
+    {
+      "english": "Lost in, your eyes, forever.",
+      "french": "Perdu dans, tes yeux, pour toujours.",
+      "category": "Love",
+      "generated_at": "2026-03-24T16:41:48.847907"
+    },
+    {
+      "english": "My soulmate, I found, you.",
+      "french": "Mon âme sœur, je t'ai trouvé.",
+      "category": "Love",
+      "generated_at": "2026-03-24T16:41:48.847908"
+    },
+    {
+      "english": "With you, life, is good.",
+      "french": "Avec toi, la vie, est belle.",
+      "category": "Love",
+      "generated_at": "2026-03-24T16:41:48.847909"
     }
   ],
-  "last_updated": "2026-03-23T23:05:35.187318"
+  "last_updated": "2026-03-24T16:41:48.847911"
 }
