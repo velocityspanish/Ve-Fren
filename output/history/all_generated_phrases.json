@@ -689,7 +689,37 @@
       "french": "Repose-toi bien, travaille dur.",
       "category": "Balance",
       "generated_at": "2026-03-26T19:41:43.475593"
+    },
+    {
+      "english": "Be patient, it takes time.",
+      "french": "Sois patient, ça prend du temps.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-26T23:00:58.260513"
+    },
+    {
+      "english": "Celebrate small wins.",
+      "french": "Célèbre les petites victoires.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-26T23:00:58.260522"
+    },
+    {
+      "english": "Stay curious, ask why.",
+      "french": "Reste curieux, demande pourquoi.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-26T23:00:58.260523"
+    },
+    {
+      "english": "Focus now, achieve later.",
+      "french": "Concentre-toi, réussis plus tard.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-26T23:00:58.260524"
+    },
+    {
+      "english": "Breathe deep, feel calm.",
+      "french": "Respire profondément, sens le calme.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-26T23:00:58.260525"
     }
   ],
-  "last_updated": "2026-03-26T19:41:43.475595"
+  "last_updated": "2026-03-26T23:00:58.260527"
 }
