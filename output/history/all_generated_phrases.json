@@ -659,7 +659,37 @@
       "french": "Toujours un bon moment, avec toi.",
       "category": "Friendship",
       "generated_at": "2026-03-26T16:45:37.506472"
+    },
+    {
+      "english": "Breathe deep, then speak.",
+      "french": "Respire profondément, puis parle.",
+      "category": "Balance",
+      "generated_at": "2026-03-26T19:41:43.475582"
+    },
+    {
+      "english": "Listen more, say less.",
+      "french": "Écoute davantage, dis moins.",
+      "category": "Balance",
+      "generated_at": "2026-03-26T19:41:43.475590"
+    },
+    {
+      "english": "Walk slowly, notice life.",
+      "french": "Marche lentement, observe la vie.",
+      "category": "Balance",
+      "generated_at": "2026-03-26T19:41:43.475591"
+    },
+    {
+      "english": "Think first, act later.",
+      "french": "Pense d'abord, agis après.",
+      "category": "Balance",
+      "generated_at": "2026-03-26T19:41:43.475592"
+    },
+    {
+      "english": "Rest well, work hard.",
+      "french": "Repose-toi bien, travaille dur.",
+      "category": "Balance",
+      "generated_at": "2026-03-26T19:41:43.475593"
     }
   ],
-  "last_updated": "2026-03-26T16:45:37.506474"
+  "last_updated": "2026-03-26T19:41:43.475595"
 }
