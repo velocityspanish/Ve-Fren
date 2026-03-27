@@ -749,7 +749,37 @@
       "french": "La vie est belle, souvent.",
       "category": "Happiness",
       "generated_at": "2026-03-27T12:35:47.853622"
+    },
+    {
+      "english": "Keep going, you're learning.",
+      "french": "Continue, tu apprends.",
+      "category": "Success",
+      "generated_at": "2026-03-27T18:38:30.245698"
+    },
+    {
+      "english": "You've got this, really.",
+      "french": "Tu peux le faire, vraiment.",
+      "category": "Success",
+      "generated_at": "2026-03-27T18:38:30.245708"
+    },
+    {
+      "english": "Little by little, progress.",
+      "french": "Petit à petit, le progrès.",
+      "category": "Success",
+      "generated_at": "2026-03-27T18:38:30.245709"
+    },
+    {
+      "english": "Your effort, pays off.",
+      "french": "Ton effort, paie.",
+      "category": "Success",
+      "generated_at": "2026-03-27T18:38:30.245710"
+    },
+    {
+      "english": "Speak up, it's okay.",
+      "french": "Parle, ce n'est pas grave.",
+      "category": "Success",
+      "generated_at": "2026-03-27T18:38:30.245712"
     }
   ],
-  "last_updated": "2026-03-27T12:35:47.853623"
+  "last_updated": "2026-03-27T18:38:30.245713"
 }
