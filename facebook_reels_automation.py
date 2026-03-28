@@ -301,10 +301,20 @@ CRITICAL: Every phrase MUST be completely new, unique, and ORIGINAL."""
             print(f"[content] Got {len(unique_phrases)} valid phrases (skipped: {skipped_long} too long, {skipped_cliche} cliché, {skipped_used} history, {skipped_session} this run)")
 
             if len(unique_phrases) >= num_phrases:
-                add_phrases_to_history(unique_phrases[:num_phrases], category_english)
+                # Normalize keys to lowercase before saving
+                normalized_phrases = []
                 for p in unique_phrases[:num_phrases]:
+                    normalized = {
+                        "english": p.get("english", ""),
+                        "french": p.get("french", p.get("French", "")),
+                        "pronunciation": p.get("pronunciation", "")
+                    }
+                    normalized_phrases.append(normalized)
+                
+                add_phrases_to_history(normalized_phrases, category_english)
+                for p in normalized_phrases:
                     add_phrase_to_session(p["english"])
-                return unique_phrases[:num_phrases]
+                return normalized_phrases
             else:
                 print(f"[content] Only got {len(unique_phrases)} phrases, need {num_phrases}, trying again...")
 
@@ -343,7 +353,17 @@ Return as JSON: [{{"english": "...", "french": "...", "pronunciation": "..."}}]"
             content = content.split("```")[1].split("```")[0].strip()
         
         phrases = json.loads(content)
-        unique_phrases = [p for p in phrases if not is_phrase_used(p.get("english", ""))]
+        
+        # Accept ANY phrases that aren't in history, normalize keys
+        unique_phrases = []
+        for p in phrases:
+            if not is_phrase_used(p.get("english", "")):
+                normalized = {
+                    "english": p.get("english", ""),
+                    "french": p.get("french", p.get("French", "")),
+                    "pronunciation": p.get("pronunciation", "")
+                }
+                unique_phrases.append(normalized)
         
         if unique_phrases:
             add_phrases_to_history(unique_phrases[:num_phrases], category_english)
@@ -833,7 +853,7 @@ def generate_reel(category_english: str = None):
     phrases = generate_phrases(category_english, num_phrases=5)
 
     for i, phrase in enumerate(phrases, 1):
-        print(f"  {i}. {phrase['english']} → {phrase['french']}")
+        print(f"  {i}. {phrase['english']} → {phrase.get('french', phrase.get('French', ''))}")
 
     # Step 2: Generate images
     print("\n[2/4] Generating images with impressive backgrounds...")
