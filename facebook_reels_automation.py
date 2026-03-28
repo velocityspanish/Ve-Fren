@@ -191,7 +191,7 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
 
 {style_instruction}
 
-FORMAT RULES:
+FORMAT RULES (CRITICAL):
 1. Keep phrases SHORT (4-8 words max per language)
 2. Add NATURAL PAUSES using commas (e.g., "Dream big, start small")
 3. Each phrase should be speakable in 2-4 seconds
@@ -200,7 +200,7 @@ FORMAT RULES:
 
 5. AVOID THESE OVERUSED CLICHÉS (never use these):
    - "Little by little, wins the race"
-   - "Slow and steady, wins the prize"  
+   - "Slow and steady, wins the prize"
    - "Patience, is a virtue"
    - "Rome wasn't built, in a day"
    - "Good things, take time"
@@ -213,8 +213,17 @@ FORMAT RULES:
    - "You are capable"
    - "Your future is created"
 
+6. CRITICAL - FIELD RULES:
+   - "english": ONLY English text (NO French words allowed in this field!)
+   - "French": ONLY French translation
+   - "pronunciation": Phonetic guide for French
+
 Return as JSON array:
-[{{"english": "...", "French": "...", "pronunciation": "..."}}]
+[{{"english": "English text only here", "French": "French translation here", "pronunciation": "phonetic guide"}}]
+
+EXAMPLES of CORRECT format:
+✓ {{"english": "Dream big, start small", "French": "Rêvez grand, commencez petit", "pronunciation": "Ray-vay grahn, koh-mahn-say puh-tee"}}
+✗ WRONG: {{"english": "Dream big, start small. Rêvez grand", "French": "..."}}
 
 CRITICAL: Every phrase MUST be completely new, unique, and ORIGINAL."""
 
@@ -267,34 +276,41 @@ CRITICAL: Every phrase MUST be completely new, unique, and ORIGINAL."""
             for phrase in phrases:
                 english = phrase.get("english", "").strip()
                 english_lower = english.lower()
-                
+
                 # Skip if too long (over 9 words)
                 if len(english.split()) > 9:
                     skipped_long += 1
                     continue
-                
+
+                # Skip if English field contains French text (common API mistake)
+                french_chars_in_english = any(c in english_lower for c in ['ê', 'é', 'è', 'ë', 'à', 'â', 'ô', 'ù', 'û', 'ü', 'ç', 'î', 'ï'])
+                if french_chars_in_english:
+                    print(f"[content] Skipping (French in English field): {english}")
+                    skipped_long += 1
+                    continue
+
                 # Skip if contains cliché patterns
                 if any(cliche in english_lower for cliche in cliche_patterns):
                     skipped_cliche += 1
                     print(f"[content] Skipping cliché: {english}")
                     continue
-                
+
                 # Skip if already in global history
                 if is_phrase_used(english):
                     skipped_used += 1
                     print(f"[content] Skipping duplicate (history): {english}")
                     continue
-                
+
                 # Skip if we've seen it in this run already
                 if english_lower in all_tried_phrases:
                     skipped_session += 1
                     print(f"[content] Skipping duplicate (this run): {english}")
                     continue
-                
+
                 # Add to tracking and results
                 all_tried_phrases.add(english_lower)
                 unique_phrases.append(phrase)
-                
+
                 if len(unique_phrases) >= num_phrases:
                     break
 
@@ -304,13 +320,17 @@ CRITICAL: Every phrase MUST be completely new, unique, and ORIGINAL."""
                 # Normalize keys to lowercase before saving
                 normalized_phrases = []
                 for p in unique_phrases[:num_phrases]:
+                    french_text = p.get("french") or p.get("French") or p.get("FRENCH") or ""
                     normalized = {
                         "english": p.get("english", ""),
-                        "french": p.get("french", p.get("French", "")),
+                        "french": french_text,
                         "pronunciation": p.get("pronunciation", "")
                     }
+                    # Validate we have French text
+                    if not french_text:
+                        print(f"[content] WARNING: Missing French text for '{normalized['english']}'")
                     normalized_phrases.append(normalized)
-                
+
                 add_phrases_to_history(normalized_phrases, category_english)
                 for p in normalized_phrases:
                     add_phrase_to_session(p["english"])
@@ -358,9 +378,10 @@ Return as JSON: [{{"english": "...", "french": "...", "pronunciation": "..."}}]"
         unique_phrases = []
         for p in phrases:
             if not is_phrase_used(p.get("english", "")):
+                french_text = p.get("french") or p.get("French") or p.get("FRENCH") or ""
                 normalized = {
                     "english": p.get("english", ""),
-                    "french": p.get("french", p.get("French", "")),
+                    "french": french_text,
                     "pronunciation": p.get("pronunciation", "")
                 }
                 unique_phrases.append(normalized)
@@ -853,7 +874,7 @@ def generate_reel(category_english: str = None):
     phrases = generate_phrases(category_english, num_phrases=5)
 
     for i, phrase in enumerate(phrases, 1):
-        print(f"  {i}. {phrase['english']} → {phrase.get('french', phrase.get('French', ''))}")
+        print(f"  {i}. {phrase['english']} → {phrase['french']}")
 
     # Step 2: Generate images
     print("\n[2/4] Generating images with impressive backgrounds...")
@@ -903,6 +924,55 @@ def generate_reel(category_english: str = None):
     print(f"{'='*80}\n")
 
     return metadata
+
+
+def generate_daily_content(times_per_day: int = 4):
+    """Generate multiple reels for daily content
+    
+    Args:
+        times_per_day: Number of reels to generate (default: 4)
+    """
+    print(f"\n{'='*80}")
+    print(f"📅 GENERATING DAILY CONTENT: {times_per_day} reels")
+    print(f"{'='*80}\n")
+    
+    # Get available categories (exclude recently used ones)
+    history = load_phrase_history()
+    all_phrases = history.get("phrases", [])
+    
+    # Get categories used in last 24 hours
+    now = datetime.now()
+    recent_categories = set()
+    for p in all_phrases[-100:]:  # Check last 100 phrases
+        try:
+            gen_time = datetime.fromisoformat(p.get("generated_at", ""))
+            hours_ago = (now - gen_time).total_seconds() / 3600
+            if hours_ago < 24:
+                recent_categories.add(p.get("category", ""))
+        except:
+            pass
+    
+    # Select categories (prefer ones not used recently)
+    available_categories = [c for c in CATEGORIES_ENGLISH if c not in recent_categories]
+    if len(available_categories) < times_per_day:
+        available_categories = CATEGORIES_ENGLISH.copy()
+    
+    random.shuffle(available_categories)
+    selected_categories = available_categories[:times_per_day]
+    
+    print(f"📊 Selected categories: {', '.join(selected_categories)}\n")
+    
+    # Generate reels
+    for i, category in enumerate(selected_categories, 1):
+        print(f"\n{'='*80}")
+        print(f"🎬 REEL {i}/{times_per_day}: {category}")
+        print(f"{'='*80}")
+        generate_reel(category)
+    
+    print(f"\n{'='*80}")
+    print(f"✅ DAILY CONTENT COMPLETE!")
+    print(f"   Generated {times_per_day} reels")
+    print(f"{'='*80}\n")
 
 
 if __name__ == "__main__":
