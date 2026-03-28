@@ -898,7 +898,7 @@ if __name__ == "__main__":
     print("  ✓ NEVER repeats phrases (permanent history tracking)")
     print(f"\n📊 AVAILABLE CATEGORIES ({len(CATEGORIES_ENGLISH)} total):")
     for i, cat in enumerate(CATEGORIES_ENGLISH, 1):
-        print(f"   {i:2d}. {cat} ({CATEGORIES_French[cat]})")
+        print(f"   {i:2d}. {cat} ({CATEGORIES_FRENCH[cat]})")
     print(f"\n📅 DAILY CAPACITY:")
     print(f"  • 4 reels per day = 20 unique phrases daily")
     print(f"  • {len(CATEGORIES_ENGLISH)} categories = Over 6 days before any category repeats")
