@@ -112,10 +112,13 @@ jobs:
           echo "TIMEZONE_OFFSET_HOURS=-5" >> .env
           echo "✅ .env file created"
 
-      - name: 🎬 Generate French Learning Reel
+      - name: 🎬 Generate French Learning Reel (1 reel)
         run: |
           echo "🚀 Starting Velocity French content generation..."
-          python facebook_reels_automation.py
+          python -c "
+          from facebook_reels_automation import generate_reel
+          generate_reel()
+          "
           echo "✅ Content generation complete!"
           echo ""
           echo "📁 Generated files:"
