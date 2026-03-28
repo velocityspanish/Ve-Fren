@@ -383,12 +383,12 @@ def generate_all_audio(phrases: list, output_dir: str):
 
     for i, phrase in enumerate(phrases):
         english_file = output_dir / f"english_{i}.mp3"
-        French_file = output_dir / f"French_{i}.mp3"
+        french_file = output_dir / f"french_{i}.mp3"
         combined_file = output_dir / f"combined_{i}.mp3"
 
         print(f"\n  Phrase {i+1}:")
         print(f"    EN: {phrase['english']}")
-        print(f"    SV: {phrase['French']}")
+        print(f"    FR: {phrase['french']}")
 
         # Generate English audio
         en_success = asyncio.run(generate_single_audio(phrase["english"], ENGLISH_VOICE, str(english_file)))
@@ -399,28 +399,28 @@ def generate_all_audio(phrases: list, output_dir: str):
             subprocess.run(cmd, capture_output=True)
 
         # Generate French audio
-        sv_success = asyncio.run(generate_single_audio(phrase["French"], French_VOICE, str(French_file)))
-        if sv_success:
-            print(f"    ✓ French: {French_file.name}")
+        fr_success = asyncio.run(generate_single_audio(phrase["french"], FRENCH_VOICE, str(french_file)))
+        if fr_success:
+            print(f"    ✓ French: {french_file.name}")
         else:
-            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(French_file)]
+            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(french_file)]
             subprocess.run(cmd, capture_output=True)
 
         # Get ACTUAL durations
         en_duration = get_audio_duration(str(english_file))
-        sv_duration = get_audio_duration(str(French_file))
+        fr_duration = get_audio_duration(str(french_file))
 
         # Add pause between English and French
         pause_between = 0.5
-        total_duration = en_duration + pause_between + sv_duration
+        total_duration = en_duration + pause_between + fr_duration
 
-        print(f"    ⏱️  Total: {total_duration:.2f}s (EN: {en_duration:.2f}s + pause: {pause_between}s + SV: {sv_duration:.2f}s)")
+        print(f"    ⏱️  Total: {total_duration:.2f}s (EN: {en_duration:.2f}s + pause: {pause_between}s + FR: {fr_duration:.2f}s)")
 
         # Combine audio files
         cmd = [
             "ffmpeg", "-y",
             "-i", str(english_file),
-            "-i", str(French_file),
+            "-i", str(french_file),
             "-filter_complex", f"[0:a][1:a]concat=n=2:v=0:a=1[out]",
             "-map", "[out]",
             str(combined_file)
@@ -432,7 +432,7 @@ def generate_all_audio(phrases: list, output_dir: str):
             concat_file = output_dir / f"concat_{i}.txt"
             with open(concat_file, "w", encoding="utf-8") as f:
                 f.write(f"file '{english_file.as_posix()}'\n")
-                f.write(f"file '{French_file.as_posix()}'\n")
+                f.write(f"file '{french_file.as_posix()}'\n")
 
             cmd = [
                 "ffmpeg", "-y",
@@ -451,11 +451,11 @@ def generate_all_audio(phrases: list, output_dir: str):
         audio_files.append({
             "index": i,
             "english": str(english_file),
-            "French": str(French_file),
+            "french": str(french_file),
             "combined": str(combined_file),
             "duration": actual_duration,
             "en_duration": en_duration,
-            "sv_duration": sv_duration
+            "fr_duration": fr_duration
         })
 
     print(f"\n[audio] ✓ Generated {len(audio_files)} phrase audios")
@@ -606,7 +606,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     font_branding = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 52)   # Increased from 40
 
     english = phrase_data.get("english", "")
-    French = phrase_data.get("French", "")
+    french = phrase_data.get("french", "")
     pronunciation = phrase_data.get("pronunciation", "")
 
     def wrap_text(text, font, max_width):
@@ -669,17 +669,17 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         )
 
     # French text
-    French_y = english_y + total_height + 110  # Increased from 100
-    French_lines = wrap_text(French, font_large, VIDEO_WIDTH - 140)
-    total_height = len(French_lines) * 95  # Increased from 75
+    french_y = english_y + total_height + 110  # Increased from 100
+    french_lines = wrap_text(french, font_large, VIDEO_WIDTH - 140)
+    total_height = len(french_lines) * 95  # Increased from 75
 
     draw.rectangle(
-        [(60, French_y - 55), (VIDEO_WIDTH - 60, French_y + total_height + 15)],
+        [(60, french_y - 55), (VIDEO_WIDTH - 60, french_y + total_height + 15)],
         fill=(80, 30, 30, 220)
     )
 
-    for i, line in enumerate(French_lines):
-        y_pos = French_y + (i * 95)  # Increased spacing
+    for i, line in enumerate(french_lines):
+        y_pos = french_y + (i * 95)  # Increased spacing
         draw.text(
             (VIDEO_WIDTH // 2, y_pos),
             line,
@@ -691,7 +691,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         )
 
     # Pronunciation with FILLED BOX
-    pronunciation_y = French_y + total_height + 90  # Increased from 80
+    pronunciation_y = french_y + total_height + 90  # Increased from 80
     pronunciation_text = f"[{pronunciation}]"
     pron_lines = wrap_text(pronunciation_text, font_pronunciation, VIDEO_WIDTH - 160)
 
@@ -751,7 +751,7 @@ def create_video_from_images_audio(image_files: list, audio_files: list, combine
 
     for i, (img_path, audio_info) in enumerate(zip(image_files, audio_files)):
         duration = audio_info['duration']
-        print(f"  Image {i+1}/{len(image_files)}: {duration:.2f}s (EN: {audio_info.get('en_duration', 0):.1f}s + IT: {audio_info.get('it_duration', 0):.1f}s)")
+        print(f"  Image {i+1}/{len(image_files)}: {duration:.2f}s (EN: {audio_info.get('en_duration', 0):.1f}s + FR: {audio_info.get('fr_duration', 0):.1f}s)")
 
         temp_clip = Path(output_file).parent / f"temp_clip_{i:02d}.mp4"
         temp_clips.append(temp_clip)
@@ -821,7 +821,7 @@ def generate_reel(category_english: str = None):
         category_english = random.choice(CATEGORIES_ENGLISH)
 
     print(f"\n{'='*80}")
-    print(f"Category: {category_english} ({CATEGORIES_French[category_english]})")
+    print(f"Category: {category_english} ({CATEGORIES_FRENCH[category_english]})")
     print(f"{'='*80}\n")
 
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -833,7 +833,7 @@ def generate_reel(category_english: str = None):
     phrases = generate_phrases(category_english, num_phrases=5)
 
     for i, phrase in enumerate(phrases, 1):
-        print(f"  {i}. {phrase['english']} → {phrase['French']}")
+        print(f"  {i}. {phrase['english']} → {phrase['french']}")
 
     # Step 2: Generate images
     print("\n[2/4] Generating images with impressive backgrounds...")
@@ -865,7 +865,7 @@ def generate_reel(category_english: str = None):
     # Save metadata
     metadata = {
         "category_english": category_english,
-        "category_French": CATEGORIES_French[category_english],
+        "category_french": CATEGORIES_FRENCH[category_english],
         "timestamp": timestamp,
         "phrases": phrases,
         "video": str(output_video),
@@ -887,7 +887,7 @@ def generate_reel(category_english: str = None):
 
 if __name__ == "__main__":
     print("\n" + "="*80)
-    print("🇸🇪 VELOCITY French - FACEBOOK REELS AUTOMATION 🇸🇪")
+    print("🇫🇷 VELOCITY French - FACEBOOK REELS AUTOMATION 🇫🇷")
     print("="*80)
     print("\n✨ IMPROVED FEATURES:")
     print("  ✓ Natural pauses with commas (non-robotic TTS)")
