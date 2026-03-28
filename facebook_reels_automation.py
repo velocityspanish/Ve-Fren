@@ -115,8 +115,8 @@ def add_phrases_to_history(phrases, category):
     history = load_phrase_history()
     for phrase in phrases:
         history["phrases"].append({
-            "english": phrase["english"],
-            "French": phrase["French"],
+            "english": phrase.get("english", ""),
+            "french": phrase.get("french", phrase.get("French", "")),
             "category": category,
             "generated_at": datetime.now().isoformat()
         })
