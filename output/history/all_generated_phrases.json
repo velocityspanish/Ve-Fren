@@ -779,7 +779,37 @@
       "french": "Parle, ce n'est pas grave.",
       "category": "Success",
       "generated_at": "2026-03-27T18:38:30.245712"
+    },
+    {
+      "english": "Your muse whispers, listen closely.",
+      "french": "Ta muse chuchote, écoute.",
+      "category": "Creativity",
+      "generated_at": "2026-03-28T02:21:34.038322"
+    },
+    {
+      "english": "Let thoughts wander, happily.",
+      "french": "Laisse tes pensées vagabonder.",
+      "category": "Creativity",
+      "generated_at": "2026-03-28T02:21:34.038331"
+    },
+    {
+      "english": "Sketch something wild, now.",
+      "french": "Esquisse-moi un rêve fou.",
+      "category": "Creativity",
+      "generated_at": "2026-03-28T02:21:34.038332"
+    },
+    {
+      "english": "Conjure magic, from silence.",
+      "french": "Invente la magie du cœur.",
+      "category": "Creativity",
+      "generated_at": "2026-03-28T02:21:34.038333"
+    },
+    {
+      "english": "Your unique spark, ignites.",
+      "french": "Ta flamme éclaire tout.",
+      "category": "Creativity",
+      "generated_at": "2026-03-28T02:21:34.038335"
     }
   ],
-  "last_updated": "2026-03-27T18:38:30.245713"
+  "last_updated": "2026-03-28T02:21:34.038336"
 }
