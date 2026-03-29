@@ -1019,7 +1019,37 @@
       "french": "Chassez horizons, terres invisibles appellent.",
       "category": "Growth",
       "generated_at": "2026-03-29T06:02:29.690047"
+    },
+    {
+      "english": "Speak French, boldly now.",
+      "french": "Parlez français, osez maintenant.",
+      "category": "Confidence",
+      "generated_at": "2026-03-29T14:56:24.113285"
+    },
+    {
+      "english": "Your voice matters, hear it.",
+      "french": "Votre voix compte, écoutez.",
+      "category": "Confidence",
+      "generated_at": "2026-03-29T14:56:24.113296"
+    },
+    {
+      "english": "Try this French, experiment.",
+      "french": "Essayez ce français, expérimentez.",
+      "category": "Confidence",
+      "generated_at": "2026-03-29T14:56:24.113297"
+    },
+    {
+      "english": "French doors open, today.",
+      "french": "Les portes françaises s'ouvrent, aujourd'hui.",
+      "category": "Confidence",
+      "generated_at": "2026-03-29T14:56:24.113299"
+    },
+    {
+      "english": "Learn a new phrase, freely.",
+      "french": "Apprenez une phrase, nouvelle liberté.",
+      "category": "Confidence",
+      "generated_at": "2026-03-29T14:56:24.113300"
     }
   ],
-  "last_updated": "2026-03-29T06:02:29.690048"
+  "last_updated": "2026-03-29T14:56:24.113302"
 }
