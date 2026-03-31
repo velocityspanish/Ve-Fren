@@ -1319,7 +1319,37 @@
       "french": "Laisse simple, se dérouler.",
       "category": "Patience",
       "generated_at": "2026-03-31T06:07:06.452210"
+    },
+    {
+      "english": "Listen closely, courage grows.",
+      "french": "Écoute attentivement, le courage grandit.",
+      "category": "Strength",
+      "generated_at": "2026-03-31T16:36:38.740769"
+    },
+    {
+      "english": "Speak slow, clarity blooms.",
+      "french": "Parlez lentement, la clarté fleurit.",
+      "category": "Strength",
+      "generated_at": "2026-03-31T16:36:38.740778"
+    },
+    {
+      "english": "Question gently, learn much.",
+      "french": "Questionne doucement, apprends beaucoup.",
+      "category": "Strength",
+      "generated_at": "2026-03-31T16:36:38.740779"
+    },
+    {
+      "english": "Brave mistakes, get smarter.",
+      "french": "Ose les erreurs, deviens plus sage.",
+      "category": "Strength",
+      "generated_at": "2026-03-31T16:36:38.740780"
+    },
+    {
+      "english": "Tiny steps, make big waves.",
+      "french": "Petits pas, font de grandes vagues.",
+      "category": "Strength",
+      "generated_at": "2026-03-31T16:36:38.740782"
     }
   ],
-  "last_updated": "2026-03-31T06:07:06.452212"
+  "last_updated": "2026-03-31T16:36:38.740783"
 }
