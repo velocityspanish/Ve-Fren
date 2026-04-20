@@ -1649,7 +1649,37 @@
       "french": "Respirez, soyez persévérant.",
       "category": "Perseverance",
       "generated_at": "2026-04-20T04:20:58.264714"
+    },
+    {
+      "english": "Breathe in light.",
+      "french": "Inspirez la lumière.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-20T17:01:18.459652"
+    },
+    {
+      "english": "Hear the quiet.",
+      "french": "Entendez le calme.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-20T17:01:18.459661"
+    },
+    {
+      "english": "Feel the stillness.",
+      "french": "Sentez la quiétude.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-20T17:01:18.459662"
+    },
+    {
+      "english": "Let go, gently.",
+      "french": "Lâchez prise, doucement.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-20T17:01:18.459664"
+    },
+    {
+      "english": "New breath, new joy.",
+      "french": "Nouveau souffle, nouvelle joie.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-20T17:01:18.459665"
     }
   ],
-  "last_updated": "2026-04-20T04:20:58.264716"
+  "last_updated": "2026-04-20T17:01:18.459669"
 }
