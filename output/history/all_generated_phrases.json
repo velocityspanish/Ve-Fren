@@ -1739,7 +1739,37 @@
       "french": "Fleurir où toi as été planté.",
       "category": "Growth",
       "generated_at": "2026-04-20T22:41:19.996795"
+    },
+    {
+      "english": "Let words flow, like rivers.",
+      "french": "Laissez couler des mots, rivière.",
+      "category": "Confidence",
+      "generated_at": "2026-04-21T04:13:13.592179"
+    },
+    {
+      "english": "Your voice, a gentle wind.",
+      "french": "Ta voix, doux vent.",
+      "category": "Confidence",
+      "generated_at": "2026-04-21T04:13:13.592189"
+    },
+    {
+      "english": "Breathe learning, like mountain air.",
+      "french": "Inspire apprendre, air montagne. ",
+      "category": "Confidence",
+      "generated_at": "2026-04-21T04:13:13.592190"
+    },
+    {
+      "english": "Speak roots that hold firm.",
+      "french": "Parle racines solides.",
+      "category": "Confidence",
+      "generated_at": "2026-04-21T04:13:13.592192"
+    },
+    {
+      "english": "Each sound, a seed planted.",
+      "french": "Chaque son, graine semée.",
+      "category": "Confidence",
+      "generated_at": "2026-04-21T04:13:13.592193"
     }
   ],
-  "last_updated": "2026-04-20T22:41:19.996796"
+  "last_updated": "2026-04-21T04:13:13.592194"
 }
