@@ -2009,7 +2009,37 @@
       "french": "Pousse gentiment en avant, maintenant.",
       "category": "Perseverance",
       "generated_at": "2026-04-22T20:12:12.542347"
+    },
+    {
+      "english": "Stumble forward, learn always.",
+      "french": "Trébuchez, apprenez toujours.",
+      "category": "Strength",
+      "generated_at": "2026-04-22T22:44:49.592667"
+    },
+    {
+      "english": "New words, unlock worlds.",
+      "french": "Nouveaux mots, débloquent mondes.",
+      "category": "Strength",
+      "generated_at": "2026-04-22T22:44:49.592676"
+    },
+    {
+      "english": "Silence invites thinking.",
+      "french": "Le silence invite réflexion.",
+      "category": "Strength",
+      "generated_at": "2026-04-22T22:44:49.592677"
+    },
+    {
+      "english": "Daily practice, sharpens hearing.",
+      "french": "Cote pratique, aiguise ouïe.",
+      "category": "Strength",
+      "generated_at": "2026-04-22T22:44:49.592679"
+    },
+    {
+      "english": "Connect sounds, build meaning.",
+      "french": "Connectez sons, bâtissez sens.",
+      "category": "Strength",
+      "generated_at": "2026-04-22T22:44:49.592680"
     }
   ],
-  "last_updated": "2026-04-22T20:12:12.542349"
+  "last_updated": "2026-04-22T22:44:49.592681"
 }
