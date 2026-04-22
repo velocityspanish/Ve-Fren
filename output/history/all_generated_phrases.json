@@ -1919,7 +1919,37 @@
       "french": "La paix intérieure, commence maintenant.",
       "category": "Happiness",
       "generated_at": "2026-04-22T04:09:08.893127"
+    },
+    {
+      "english": "Create slowly, then leap.",
+      "french": " Créez lentement, puis sautez.",
+      "category": "Patience",
+      "generated_at": "2026-04-22T14:47:38.734225"
+    },
+    {
+      "english": "Wait not, but seed.",
+      "french": " N'attendez pas, sèmez.",
+      "category": "Patience",
+      "generated_at": "2026-04-22T14:47:38.734234"
+    },
+    {
+      "english": "Observe, understand, achieve.",
+      "french": " Observez, comprenez, réalisez.",
+      "category": "Patience",
+      "generated_at": "2026-04-22T14:47:38.734235"
+    },
+    {
+      "english": "Hone focus, gain speed.",
+      "french": " Affinez le focus, gagnez en vitesse.",
+      "category": "Patience",
+      "generated_at": "2026-04-22T14:47:38.734236"
+    },
+    {
+      "english": "Absorb much, act wisely.",
+      "french": " Absorbez beaucoup, agissez prudemment.",
+      "category": "Patience",
+      "generated_at": "2026-04-22T14:47:38.734238"
     }
   ],
-  "last_updated": "2026-04-22T04:09:08.893128"
+  "last_updated": "2026-04-22T14:47:38.734239"
 }
