@@ -1979,7 +1979,37 @@
       "french": "Écoute les leçons.",
       "category": "Positive Life",
       "generated_at": "2026-04-22T16:55:27.726906"
+    },
+    {
+      "english": "Try once more, friend.",
+      "french": "Essaie encore une fois, mon ami.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-22T20:12:12.542333"
+    },
+    {
+      "english": "Your French grows, day by day.",
+      "french": "Ton français grandit, jour après jour.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-22T20:12:12.542343"
+    },
+    {
+      "english": "Speak often, practice always.",
+      "french": "Parle souvent, pratique toujours.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-22T20:12:12.542345"
+    },
+    {
+      "english": "Embrace mistakes, a joy.",
+      "french": "Accueille les erreurs, une joie.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-22T20:12:12.542346"
+    },
+    {
+      "english": "Push gently forward now.",
+      "french": "Pousse gentiment en avant, maintenant.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-22T20:12:12.542347"
     }
   ],
-  "last_updated": "2026-04-22T16:55:27.726907"
+  "last_updated": "2026-04-22T20:12:12.542349"
 }
