@@ -2099,7 +2099,37 @@
       "french": "Cette connexion, est la tienne.",
       "category": "Kindness",
       "generated_at": "2026-04-23T15:12:39.331727"
+    },
+    {
+      "english": "Listen, wind softly sings.",
+      "french": "Écoute, le vent chante.",
+      "category": "Purpose",
+      "generated_at": "2026-04-23T17:16:23.029427"
+    },
+    {
+      "english": "New dawn, paint your path.",
+      "french": "Aurore neuve, peins ton chemin.",
+      "category": "Purpose",
+      "generated_at": "2026-04-23T17:16:23.029435"
+    },
+    {
+      "english": "Quiet pond, your truth surfaces.",
+      "french": "Étang calme, ta vérité éclôt.",
+      "category": "Purpose",
+      "generated_at": "2026-04-23T17:16:23.029437"
+    },
+    {
+      "english": "Warm sun, gently nurtures.",
+      "french": "Soleil chaud, nourrit doucement.",
+      "category": "Purpose",
+      "generated_at": "2026-04-23T17:16:23.029438"
+    },
+    {
+      "english": "Stars above, chart your course.",
+      "french": "Étoiles haut, trace ta route.",
+      "category": "Purpose",
+      "generated_at": "2026-04-23T17:16:23.029439"
     }
   ],
-  "last_updated": "2026-04-23T15:12:39.331729"
+  "last_updated": "2026-04-23T17:16:23.029441"
 }
