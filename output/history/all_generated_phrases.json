@@ -2459,7 +2459,37 @@
       "french": "Nouvelle aube luit, pour vous.",
       "category": "Hope",
       "generated_at": "2026-04-25T19:50:08.454811"
+    },
+    {
+      "english": "Gratitude warms the soul.",
+      "french": "La gratitude, réchauffe l'âme.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-25T22:35:03.003780"
+    },
+    {
+      "english": "Each gift, a quiet sigh.",
+      "french": "Chaque cadeau, un soupir doux.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-25T22:35:03.003792"
+    },
+    {
+      "english": "Sunlight through my window.",
+      "french": "Soleil par, ma fenêtre.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-25T22:35:03.003793"
+    },
+    {
+      "english": "Whispers of kindness, heard.",
+      "french": "Murmures de, bienveillance.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-25T22:35:03.003795"
+    },
+    {
+      "english": "A silent thank you meant.",
+      "french": "Un merci muet, vrai.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-25T22:35:03.003796"
     }
   ],
-  "last_updated": "2026-04-25T19:50:08.454812"
+  "last_updated": "2026-04-25T22:35:03.003798"
 }
