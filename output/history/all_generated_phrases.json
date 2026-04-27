@@ -2669,7 +2669,37 @@
       "french": "Phrase atterrit, en douceur.",
       "category": "Joy",
       "generated_at": "2026-04-27T04:32:18.761598"
+    },
+    {
+      "english": "Push forward, find strength.",
+      "french": "Poussez, trouvez la force.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-27T15:07:21.371352"
+    },
+    {
+      "english": "Obstacles break you, yes?",
+      "french": "Obstacles vous brisent, oui?",
+      "category": "Perseverance",
+      "generated_at": "2026-04-27T15:07:21.371362"
+    },
+    {
+      "english": "Learn now, win later.",
+      "french": "Apprenez hier, gagnez demain.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-27T15:07:21.371364"
+    },
+    {
+      "english": "Effort blooms daily, watch.",
+      "french": "Effort fleurit tous les jours.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-27T15:07:21.371365"
+    },
+    {
+      "english": "Keep moving, always ahead.",
+      "french": "Continuez, toujours devant.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-27T15:07:21.371366"
     }
   ],
-  "last_updated": "2026-04-27T04:32:18.761602"
+  "last_updated": "2026-04-27T15:07:21.371368"
 }
