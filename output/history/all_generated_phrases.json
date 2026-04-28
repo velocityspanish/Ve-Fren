@@ -2849,7 +2849,37 @@
       "french": "Accueille inconnu, découvre joie.",
       "category": "Strength",
       "generated_at": "2026-04-28T15:39:50.939130"
+    },
+    {
+      "english": "Sky breathes peace, listen.",
+      "french": "Le ciel respire le calme, écoute.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-28T17:44:53.320657"
+    },
+    {
+      "english": "River flows onward, let go.",
+      "french": "La rivière coule, laisser aller.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-28T17:44:53.320665"
+    },
+    {
+      "english": "Mountain stands firm, breathe deep.",
+      "french": "La montagne forte, respire profundamente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-28T17:44:53.320667"
+    },
+    {
+      "english": "Seed sprouts growth, be patient.",
+      "french": "La graine germe, sois patient.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-28T17:44:53.320668"
+    },
+    {
+      "english": "Wind whispers change, notice.",
+      "french": "Le vent murmure changement, remarque.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-28T17:44:53.320670"
     }
   ],
-  "last_updated": "2026-04-28T15:39:50.939132"
+  "last_updated": "2026-04-28T17:44:53.320671"
 }
