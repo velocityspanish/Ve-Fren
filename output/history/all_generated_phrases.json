@@ -3089,7 +3089,37 @@
       "french": "Silence partagé, parle profond.",
       "category": "Friendship",
       "generated_at": "2026-04-30T04:33:30.905804"
+    },
+    {
+      "english": "Ocean tides rise, then return.",
+      "french": "Les marées montent, puis reviennent.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-01T04:51:36.355878"
+    },
+    {
+      "english": "Star twinkles far, ever bright.",
+      "french": "L'étoile pétille, toujours brillante.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-01T04:51:36.355888"
+    },
+    {
+      "english": "Spring thaw reveals green shoots.",
+      "french": "Le dégel printanier révèle pousses.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-01T04:51:36.355890"
+    },
+    {
+      "english": "Sun follows rain, always.",
+      "french": "Le soleil suit la pluie, toujours.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-01T04:51:36.355891"
+    },
+    {
+      "english": "Bee tirelessly builds hive.",
+      "french": "L'abeille travaille infatigablement.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-01T04:51:36.355892"
     }
   ],
-  "last_updated": "2026-04-30T04:33:30.905805"
+  "last_updated": "2026-05-01T04:51:36.355894"
 }
