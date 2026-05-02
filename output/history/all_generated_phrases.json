@@ -3269,7 +3269,37 @@
       "french": "Dévoilez votre histoire, peu à peu.",
       "category": "Confidence",
       "generated_at": "2026-05-02T04:21:13.301900"
+    },
+    {
+      "english": "Explore beyond known borders.",
+      "french": "Explorez au-delà des frontières.",
+      "category": "Hope",
+      "generated_at": "2026-05-02T14:10:12.445126"
+    },
+    {
+      "english": "Unfurl your hidden map.",
+      "french": "Déployez votre carte cachée.",
+      "category": "Hope",
+      "generated_at": "2026-05-02T14:10:12.445137"
+    },
+    {
+      "english": "Silence offers insight, grow.",
+      "french": "Le silence offre l'intuition, grandissez.",
+      "category": "Hope",
+      "generated_at": "2026-05-02T14:10:12.445139"
+    },
+    {
+      "english": "New days, fresh beginnings here.",
+      "french": "Nouveaux jours, nouveaux départs.",
+      "category": "Hope",
+      "generated_at": "2026-05-02T14:10:12.445140"
+    },
+    {
+      "english": "Chase dawn's first blush.",
+      "french": "Poursuivez la première lueur de l'aube.",
+      "category": "Hope",
+      "generated_at": "2026-05-02T14:10:12.445141"
     }
   ],
-  "last_updated": "2026-05-02T04:21:13.301901"
+  "last_updated": "2026-05-02T14:10:12.445143"
 }
