@@ -3359,7 +3359,37 @@
       "french": "Ta lutte, forge ta force.",
       "category": "Perseverance",
       "generated_at": "2026-05-03T04:41:50.629341"
+    },
+    {
+      "english": "Speak now, create French.",
+      "french": "Parlez maintenant, créez français.",
+      "category": "Motivation",
+      "generated_at": "2026-05-03T14:11:03.512721"
+    },
+    {
+      "english": "Unlock doors, learn words.",
+      "french": "Ouvrez les portes, apprenez mots.",
+      "category": "Motivation",
+      "generated_at": "2026-05-03T14:11:03.512730"
+    },
+    {
+      "english": "Bold steps build French fluency.",
+      "french": "Pas audacieux construisent fluide français.",
+      "category": "Motivation",
+      "generated_at": "2026-05-03T14:11:03.512731"
+    },
+    {
+      "english": "Listen carefully, speak soon.",
+      "french": "Écoutez attentivement, parlez vite.",
+      "category": "Motivation",
+      "generated_at": "2026-05-03T14:11:03.512733"
+    },
+    {
+      "english": "Embrace challenge, excel French.",
+      "french": "Acceptez défi, excellez français.",
+      "category": "Motivation",
+      "generated_at": "2026-05-03T14:11:03.512734"
     }
   ],
-  "last_updated": "2026-05-03T04:41:50.629343"
+  "last_updated": "2026-05-03T14:11:03.512735"
 }
