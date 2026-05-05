@@ -3719,7 +3719,37 @@
       "french": "Cherchez l'inhabituel, créez plaisir.",
       "category": "Friendship",
       "generated_at": "2026-05-05T20:13:52.234181"
+    },
+    {
+      "english": "Declare fluency, become it.",
+      "french": "Déclarez la fluidité, devenez-la.",
+      "category": "Purpose",
+      "generated_at": "2026-05-05T22:54:45.509017"
+    },
+    {
+      "english": "Speak French, find doors.",
+      "french": "Parlez français, trouvez des portes.",
+      "category": "Purpose",
+      "generated_at": "2026-05-05T22:54:45.509026"
+    },
+    {
+      "english": "Listen to expand, learn.",
+      "french": "Écoutez-vous pour grandir, apprendre.",
+      "category": "Purpose",
+      "generated_at": "2026-05-05T22:54:45.509027"
+    },
+    {
+      "english": "Write stories, write French.",
+      "french": "Écrivez des histoires, écrivez français.",
+      "category": "Purpose",
+      "generated_at": "2026-05-05T22:54:45.509028"
+    },
+    {
+      "english": "Master words, win today.",
+      "french": "Maîtrisez les mots, gagnez aujourd'hui.",
+      "category": "Purpose",
+      "generated_at": "2026-05-05T22:54:45.509030"
     }
   ],
-  "last_updated": "2026-05-05T20:13:52.234183"
+  "last_updated": "2026-05-05T22:54:45.509031"
 }
