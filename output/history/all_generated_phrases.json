@@ -3779,7 +3779,37 @@
       "french": "Trouve le calme, sois dedans.",
       "category": "Balance",
       "generated_at": "2026-05-06T04:35:17.610102"
+    },
+    {
+      "english": "Small gains, make you strong",
+      "french": "Petits acquis, vous rendent forts",
+      "category": "Courage",
+      "generated_at": "2026-05-06T15:27:09.257569"
+    },
+    {
+      "english": "Brave words, find their voice",
+      "french": "Mots courageux, trouvent voix",
+      "category": "Courage",
+      "generated_at": "2026-05-06T15:27:09.257578"
+    },
+    {
+      "english": "One sentence, a success",
+      "french": "Une phrase, un succès",
+      "category": "Courage",
+      "generated_at": "2026-05-06T15:27:09.257580"
+    },
+    {
+      "english": "Daily effort, feels good",
+      "french": "Effort quotidien, fait du bien",
+      "category": "Courage",
+      "generated_at": "2026-05-06T15:27:09.257581"
+    },
+    {
+      "english": "Speak freely, learn more",
+      "french": "Parlez librement, apprenez plus",
+      "category": "Courage",
+      "generated_at": "2026-05-06T15:27:09.257582"
     }
   ],
-  "last_updated": "2026-05-06T04:35:17.610104"
+  "last_updated": "2026-05-06T15:27:09.257584"
 }
