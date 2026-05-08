@@ -4019,7 +4019,37 @@
       "french": "Progressez doucement, ça clique.",
       "category": "Positive Life",
       "generated_at": "2026-05-07T22:59:58.356404"
+    },
+    {
+      "english": "Your voice finds its melody.",
+      "french": "Ta voix trouve sa mélodie.",
+      "category": "Purpose",
+      "generated_at": "2026-05-08T04:17:31.422983"
+    },
+    {
+      "english": "Unlock worlds, speak them.",
+      "french": "Débloque des mondes, vis-les.",
+      "category": "Purpose",
+      "generated_at": "2026-05-08T04:17:31.422992"
+    },
+    {
+      "english": "Feel the cadence, then say.",
+      "french": "Sens le rythme, dis ensuite.",
+      "category": "Purpose",
+      "generated_at": "2026-05-08T04:17:31.422994"
+    },
+    {
+      "english": "This moment, yours, speak.",
+      "french": "Cet instant, à toi, parle.",
+      "category": "Purpose",
+      "generated_at": "2026-05-08T04:17:31.422996"
+    },
+    {
+      "english": "French whispers, listen close.",
+      "french": "Le français murmure, écoute.",
+      "category": "Purpose",
+      "generated_at": "2026-05-08T04:17:31.422997"
     }
   ],
-  "last_updated": "2026-05-07T22:59:58.356405"
+  "last_updated": "2026-05-08T04:17:31.422998"
 }
