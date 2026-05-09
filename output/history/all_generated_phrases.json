@@ -4169,7 +4169,37 @@
       "french": "Trouve la force, ose avancer.",
       "category": "Courage",
       "generated_at": "2026-05-08T22:54:33.125631"
+    },
+    {
+      "english": "Each sound, a world unfolds.",
+      "french": "Chaque son, un monde naît.",
+      "category": "Confidence",
+      "generated_at": "2026-05-09T04:24:40.833026"
+    },
+    {
+      "english": "Your voice, a gentle rhythm.",
+      "french": "Ta voix, un rythme doux.",
+      "category": "Confidence",
+      "generated_at": "2026-05-09T04:24:40.833036"
+    },
+    {
+      "english": "Listen closely, understanding blooms.",
+      "french": "Écoute, la compréhension éclot.",
+      "category": "Confidence",
+      "generated_at": "2026-05-09T04:24:40.833038"
+    },
+    {
+      "english": "Words are sparks, igniting light.",
+      "french": "Les mots, des étincelles lumineuses.",
+      "category": "Confidence",
+      "generated_at": "2026-05-09T04:24:40.833039"
+    },
+    {
+      "english": "Breathe deep, a fresh phrase forms.",
+      "french": "Respire, la phrase fraîche dit.",
+      "category": "Confidence",
+      "generated_at": "2026-05-09T04:24:40.833041"
     }
   ],
-  "last_updated": "2026-05-08T22:54:33.125633"
+  "last_updated": "2026-05-09T04:24:40.833042"
 }
