@@ -4979,7 +4979,37 @@
       "french": "Joie oubliée se souvient.",
       "category": "Happiness",
       "generated_at": "2026-05-14T17:46:34.524031"
+    },
+    {
+      "english": "Pause often, notice. Feels good.",
+      "french": "Pause souvent, vois. Ça fait du bien.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-14T20:40:33.512896"
+    },
+    {
+      "english": "Feel this moment, right here.",
+      "french": "Sens cet instant, juste là.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-14T20:40:33.512905"
+    },
+    {
+      "english": "Your voice matters, try a whisper.",
+      "french": "Ta voix compte, essaye un murmure.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-14T20:40:33.512906"
+    },
+    {
+      "english": "Soft attention, opens everything.",
+      "french": "Douce attention, ouvre tout.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-14T20:40:33.512907"
+    },
+    {
+      "english": "Breathe easy, friend. Just ease.",
+      "french": "Respire tranquille, ami. Juste, détends-toi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-14T20:40:33.512909"
     }
   ],
-  "last_updated": "2026-05-14T17:46:34.524033"
+  "last_updated": "2026-05-14T20:40:33.512910"
 }
