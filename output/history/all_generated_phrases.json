@@ -5009,7 +5009,37 @@
       "french": "Respire tranquille, ami. Juste, détends-toi.",
       "category": "Mindfulness",
       "generated_at": "2026-05-14T20:40:33.512909"
+    },
+    {
+      "english": "Just breathe, speak gently.",
+      "french": "Respirez, parlez doucement.",
+      "category": "Success",
+      "generated_at": "2026-05-14T22:55:22.530273"
+    },
+    {
+      "english": "Dare a word, feel it.",
+      "french": "Osez un mot, sentez.",
+      "category": "Success",
+      "generated_at": "2026-05-14T22:55:22.530280"
+    },
+    {
+      "english": "That flow feels right.",
+      "french": "Ce flux, est agréable.",
+      "category": "Success",
+      "generated_at": "2026-05-14T22:55:22.530282"
+    },
+    {
+      "english": "Discover joy, each phrase.",
+      "french": "Découvrez joie, chaque son.",
+      "category": "Success",
+      "generated_at": "2026-05-14T22:55:22.530283"
+    },
+    {
+      "english": "Small steps build, amazing.",
+      "french": "Petits pas construisent, tout.",
+      "category": "Success",
+      "generated_at": "2026-05-14T22:55:22.530284"
     }
   ],
-  "last_updated": "2026-05-14T20:40:33.512910"
+  "last_updated": "2026-05-14T22:55:22.530286"
 }
