@@ -5819,7 +5819,37 @@
       "french": "Un concept compris, superbe!.",
       "category": "Hope",
       "generated_at": "2026-05-20T16:24:54.442704"
+    },
+    {
+      "english": "Your voice matters, sing.",
+      "french": "Ta voix compte, chante.",
+      "category": "Confidence",
+      "generated_at": "2026-05-20T18:13:51.382599"
+    },
+    {
+      "english": "Try again, smile brighter.",
+      "french": "Recommence, souris plus.",
+      "category": "Confidence",
+      "generated_at": "2026-05-20T18:13:51.382607"
+    },
+    {
+      "english": "Speak freely, discover France.",
+      "french": "Parle librement, découvre la. ",
+      "category": "Confidence",
+      "generated_at": "2026-05-20T18:13:51.382608"
+    },
+    {
+      "english": "Guess the word, win joy.",
+      "french": "Devine le mot, gagne.\n",
+      "category": "Confidence",
+      "generated_at": "2026-05-20T18:13:51.382609"
+    },
+    {
+      "english": "Just a sound, builds you.",
+      "french": "Juste un son, te bâtit.",
+      "category": "Confidence",
+      "generated_at": "2026-05-20T18:13:51.382611"
     }
   ],
-  "last_updated": "2026-05-20T16:24:54.442706"
+  "last_updated": "2026-05-20T18:13:51.382612"
 }
