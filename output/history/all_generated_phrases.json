@@ -6239,7 +6239,37 @@
       "french": "Inspire l'apprentissage, expire le doute.",
       "category": "Confidence",
       "generated_at": "2026-05-23T16:56:03.510219"
+    },
+    {
+      "english": "Speak aloud, find your rhythm.",
+      "french": "Parlez fort, trouvez votre rythme.",
+      "category": "Confidence",
+      "generated_at": "2026-05-23T20:09:40.671332"
+    },
+    {
+      "english": "French blooms, with each attempt.",
+      "french": "Le français fleurit, à chaque essai.",
+      "category": "Confidence",
+      "generated_at": "2026-05-23T20:09:40.671340"
+    },
+    {
+      "english": "Try French words, bravely.",
+      "french": "Essayez des mots, courageusement.",
+      "category": "Confidence",
+      "generated_at": "2026-05-23T20:09:40.671342"
+    },
+    {
+      "english": "Listen, comprehend, respond.",
+      "french": "Écoutez, comprenez, répondez.",
+      "category": "Confidence",
+      "generated_at": "2026-05-23T20:09:40.671343"
+    },
+    {
+      "english": "Open your mouth, speak now.",
+      "french": "Ouvrez la bouche, parlez.",
+      "category": "Confidence",
+      "generated_at": "2026-05-23T20:09:40.671344"
     }
   ],
-  "last_updated": "2026-05-23T16:56:03.510220"
+  "last_updated": "2026-05-23T20:09:40.671346"
 }
