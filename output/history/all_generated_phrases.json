@@ -6269,7 +6269,37 @@
       "french": "Ouvrez la bouche, parlez.",
       "category": "Confidence",
       "generated_at": "2026-05-23T20:09:40.671344"
+    },
+    {
+      "english": "Breathe deep, express further.",
+      "french": "Inspire, exprime-toi plus.",
+      "category": "Success",
+      "generated_at": "2026-05-23T22:51:16.029490"
+    },
+    {
+      "english": "Trust each spoken word.",
+      "french": "Fais confiance à chaque mot.",
+      "category": "Success",
+      "generated_at": "2026-05-23T22:51:16.029500"
+    },
+    {
+      "english": "Feel the rhythm, play along.",
+      "french": "Sens le rythme, joue avec.",
+      "category": "Success",
+      "generated_at": "2026-05-23T22:51:16.029501"
+    },
+    {
+      "english": "Every attempt matters now.",
+      "french": "Chaque essai compte, maintenant.",
+      "category": "Success",
+      "generated_at": "2026-05-23T22:51:16.029503"
+    },
+    {
+      "english": "Your questions, bloom insights.",
+      "french": "Tes questions, font fleurir.",
+      "category": "Success",
+      "generated_at": "2026-05-23T22:51:16.029504"
     }
   ],
-  "last_updated": "2026-05-23T20:09:40.671346"
+  "last_updated": "2026-05-23T22:51:16.029505"
 }
