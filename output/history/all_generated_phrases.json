@@ -6389,7 +6389,37 @@
       "french": "Parler couramment, fait plaisir.",
       "category": "Happiness",
       "generated_at": "2026-05-24T16:56:39.529705"
+    },
+    {
+      "english": "Speak now, words flow.",
+      "french": "Parlez maintenant, mots coulent.",
+      "category": "Balance",
+      "generated_at": "2026-05-24T20:13:21.238987"
+    },
+    {
+      "english": "Listen freely, spirits lift.",
+      "french": "Écoutez librement, esprits leyevt.",
+      "category": "Balance",
+      "generated_at": "2026-05-24T20:13:21.238997"
+    },
+    {
+      "english": "Dare to try, progress reigns.",
+      "french": "Osez essayer, progrès règne.",
+      "category": "Balance",
+      "generated_at": "2026-05-24T20:13:21.238998"
+    },
+    {
+      "english": "Whisper secrets, understanding deepens.",
+      "french": "Murmurez secrets, entente approfondit.",
+      "category": "Balance",
+      "generated_at": "2026-05-24T20:13:21.238999"
+    },
+    {
+      "english": "Brave voice, future opens.",
+      "french": "Voix courageuse, avenir s'ouvre.",
+      "category": "Balance",
+      "generated_at": "2026-05-24T20:13:21.239001"
     }
   ],
-  "last_updated": "2026-05-24T16:56:39.529707"
+  "last_updated": "2026-05-24T20:13:21.239002"
 }
