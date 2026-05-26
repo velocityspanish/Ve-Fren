@@ -6719,7 +6719,37 @@
       "french": "Essaie, vas-y.",
       "category": "Courage",
       "generated_at": "2026-05-26T20:58:21.332691"
+    },
+    {
+      "english": "Mind awake, senses sharp.",
+      "french": "Esprit vif, sens aiguisés.",
+      "category": "Balance",
+      "generated_at": "2026-05-26T23:07:18.296724"
+    },
+    {
+      "english": "Action flows, stillness guides.",
+      "french": "Action coule, calme guide.",
+      "category": "Balance",
+      "generated_at": "2026-05-26T23:07:18.296735"
+    },
+    {
+      "english": "Let thoughts bloom, watch them dive.",
+      "french": "Laissez pucer, sentez plonger.",
+      "category": "Balance",
+      "generated_at": "2026-05-26T23:07:18.296736"
+    },
+    {
+      "english": "Build on air, touch the earth.",
+      "french": "Bâtir en l'air, toucher sol.",
+      "category": "Balance",
+      "generated_at": "2026-05-26T23:07:18.296738"
+    },
+    {
+      "english": "Speak the silence, hear the storm.",
+      "french": "Parler non-dit, entendre braille.",
+      "category": "Balance",
+      "generated_at": "2026-05-26T23:07:18.296739"
     }
   ],
-  "last_updated": "2026-05-26T20:58:21.332692"
+  "last_updated": "2026-05-26T23:07:18.296740"
 }
