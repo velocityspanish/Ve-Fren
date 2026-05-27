@@ -6779,7 +6779,37 @@
       "french": "Parlez lent. Sens grandit.",
       "category": "Perseverance",
       "generated_at": "2026-05-27T05:17:07.603420"
+    },
+    {
+      "english": "Speak up, now. Grow stronger.",
+      "french": "Parlez fort. Devenez plus fort.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-27T16:36:52.605534"
+    },
+    {
+      "english": "Try a new word tomorrow.",
+      "french": "Essayez un nouveau mot.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-27T16:36:52.605544"
+    },
+    {
+      "english": "Repeat it again. Learn quickly.",
+      "french": "Répétez encore. Apprenez vite.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-27T16:36:52.605545"
+    },
+    {
+      "english": "Don't pause. Just express yourself.",
+      "french": "Ne passez pas. Exprimez-vous.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-27T16:36:52.605546"
+    },
+    {
+      "english": "Listen closely. Respond aloud.",
+      "french": "Écoutez bien. Répondez fort.",
+      "category": "Perseverance",
+      "generated_at": "2026-05-27T16:36:52.605547"
     }
   ],
-  "last_updated": "2026-05-27T05:17:07.603421"
+  "last_updated": "2026-05-27T16:36:52.605548"
 }
