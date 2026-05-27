@@ -6839,7 +6839,37 @@
       "french": "Essayer prononcer, juste.",
       "category": "Mindfulness",
       "generated_at": "2026-05-27T18:23:13.364257"
+    },
+    {
+      "english": "Dare to speak, your French is awesome.",
+      "french": "Osez parler, votre français est génial.",
+      "category": "Success",
+      "generated_at": "2026-05-27T21:06:04.511604"
+    },
+    {
+      "english": "Listen closely, the accent forms too.",
+      "french": "Écoutez bien, l'accent se forme aussi.",
+      "category": "Success",
+      "generated_at": "2026-05-27T21:06:04.511613"
+    },
+    {
+      "english": "Mistake small, means you are learning.",
+      "french": "Gaffe petite, c'est que vous apprenez.",
+      "category": "Success",
+      "generated_at": "2026-05-27T21:06:04.511615"
+    },
+    {
+      "english": "Your effort shines, each single word.",
+      "french": "Votre effort brille, chaque mot est unique.",
+      "category": "Success",
+      "generated_at": "2026-05-27T21:06:04.511616"
+    },
+    {
+      "english": "Try new sounds, your brain loves it.",
+      "french": "Essayez des sons, votre cerveau adore ca.",
+      "category": "Success",
+      "generated_at": "2026-05-27T21:06:04.511618"
     }
   ],
-  "last_updated": "2026-05-27T18:23:13.364259"
+  "last_updated": "2026-05-27T21:06:04.511619"
 }
