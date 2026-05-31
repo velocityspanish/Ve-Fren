@@ -7439,7 +7439,37 @@
       "french": "Les rythmes appellent, réponds-y.",
       "category": "Strength",
       "generated_at": "2026-05-31T20:18:21.905524"
+    },
+    {
+      "english": "Speak freely, discover more.",
+      "french": "Parlez librement, découvrez plus.",
+      "category": "Confidence",
+      "generated_at": "2026-05-31T22:58:00.015843"
+    },
+    {
+      "english": "Your voice matters, let it reach.",
+      "french": "Votre voix compte, faites chemin.",
+      "category": "Confidence",
+      "generated_at": "2026-05-31T22:58:00.015853"
+    },
+    {
+      "english": "Mistakes are stepping stones.",
+      "french": "Les erreurs sont des tremplins.",
+      "category": "Confidence",
+      "generated_at": "2026-05-31T22:58:00.015854"
+    },
+    {
+      "english": "Learn it, live it.",
+      "french": "Apprenez-le, vivez chaque mot.",
+      "category": "Confidence",
+      "generated_at": "2026-05-31T22:58:00.015855"
+    },
+    {
+      "english": "Dare to utter, grow unbound.",
+      "french": "Osez parler, grandissez libre.",
+      "category": "Confidence",
+      "generated_at": "2026-05-31T22:58:00.015857"
     }
   ],
-  "last_updated": "2026-05-31T20:18:21.905526"
+  "last_updated": "2026-05-31T22:58:00.015859"
 }
