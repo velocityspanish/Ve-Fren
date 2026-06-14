@@ -9419,7 +9419,37 @@
       "french": "Vois force intérieure, en toi.",
       "category": "Growth",
       "generated_at": "2026-06-14T17:16:23.485458"
+    },
+    {
+      "english": "Speak French now, build bridges.",
+      "french": "Parlez français, construisez ponts.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-14T20:23:09.297294"
+    },
+    {
+      "english": "Listen, then echo French words.",
+      "french": "Écoutez, redites mots français.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-14T20:23:09.297303"
+    },
+    {
+      "english": "Write a French sentence, tomorrow.",
+      "french": "Écrivez phrase, demain matin.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-14T20:23:09.297304"
+    },
+    {
+      "english": "Today, greet one French speaker.",
+      "french": "Aujourd'hui, saluez un français.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-14T20:23:09.297305"
+    },
+    {
+      "english": "French sounds cool, try them.",
+      "french": " Sons sympas, essayez-les.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-14T20:23:09.297306"
     }
   ],
-  "last_updated": "2026-06-14T17:16:23.485460"
+  "last_updated": "2026-06-14T20:23:09.297308"
 }
