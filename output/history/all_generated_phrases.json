@@ -9569,7 +9569,37 @@
       "french": "Une tranquille marée, dans les textes.",
       "category": "Confidence",
       "generated_at": "2026-06-15T19:44:17.887114"
+    },
+    {
+      "english": "Say it loud, feel proud.",
+      "french": "Dites-le haut, sentez-vous fier.",
+      "category": "Purpose",
+      "generated_at": "2026-06-15T21:47:35.501518"
+    },
+    {
+      "english": "Understanding dawns, slowly.",
+      "french": "La compréhension naît, lentement.",
+      "category": "Purpose",
+      "generated_at": "2026-06-15T21:47:35.501528"
+    },
+    {
+      "english": "Progression shows, daily.",
+      "french": "La progression apparaît, chaque jour.",
+      "category": "Purpose",
+      "generated_at": "2026-06-15T21:47:35.501530"
+    },
+    {
+      "english": "Fluent whispers, near.",
+      "french": "Murmures fluides, proches.",
+      "category": "Purpose",
+      "generated_at": "2026-06-15T21:47:35.501531"
+    },
+    {
+      "english": "You speak more, today.",
+      "french": "Vous parlez plus, aujourd'hui.",
+      "category": "Purpose",
+      "generated_at": "2026-06-15T21:47:35.501532"
     }
   ],
-  "last_updated": "2026-06-15T19:44:17.887116"
+  "last_updated": "2026-06-15T21:47:35.501534"
 }
