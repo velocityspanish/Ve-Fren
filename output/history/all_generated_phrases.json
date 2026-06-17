@@ -9839,7 +9839,37 @@
       "french": "Volonté trouve voix.",
       "category": "Strength",
       "generated_at": "2026-06-17T16:38:34.188513"
+    },
+    {
+      "english": "Your voice, emerging joyfully.",
+      "french": "Ta voix, naissant joyeusement.",
+      "category": "Success",
+      "generated_at": "2026-06-17T18:12:08.273844"
+    },
+    {
+      "english": "Words bloom, like flowers.",
+      "french": "Les mots fleurissent, comme fleurs.",
+      "category": "Success",
+      "generated_at": "2026-06-17T18:12:08.273855"
+    },
+    {
+      "english": "Discover strength, in speaking.",
+      "french": "Découvre la force, en parlant.",
+      "category": "Success",
+      "generated_at": "2026-06-17T18:12:08.273857"
+    },
+    {
+      "english": "Progress whispers, in French.",
+      "french": "Le progrès chuchote, en français.",
+      "category": "Success",
+      "generated_at": "2026-06-17T18:12:08.273858"
+    },
+    {
+      "english": "Mistakes vanish, with courage.",
+      "french": "Les fautes s'effacent, par courage.",
+      "category": "Success",
+      "generated_at": "2026-06-17T18:12:08.273859"
     }
   ],
-  "last_updated": "2026-06-17T16:38:34.188515"
+  "last_updated": "2026-06-17T18:12:08.273861"
 }
