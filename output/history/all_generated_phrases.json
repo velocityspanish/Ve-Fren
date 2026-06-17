@@ -9779,7 +9779,37 @@
       "french": "Le but luit, plus clair ici.",
       "category": "Strength",
       "generated_at": "2026-06-16T23:22:51.166049"
+    },
+    {
+      "english": "Joy blossoms, speak softly.",
+      "french": "La joie fleurit, parle doucement.",
+      "category": "Joy",
+      "generated_at": "2026-06-17T06:13:40.093572"
+    },
+    {
+      "english": "Listen inside now first.",
+      "french": "Écoute d'abord, ton cœur.",
+      "category": "Joy",
+      "generated_at": "2026-06-17T06:13:40.093583"
+    },
+    {
+      "english": "Courage speaks, gentle tone.",
+      "french": "Le courage parle, d'un ton doux.",
+      "category": "Joy",
+      "generated_at": "2026-06-17T06:13:40.093585"
+    },
+    {
+      "english": "Your voice finds ease.",
+      "french": "Ta voix trouve le aise.",
+      "category": "Joy",
+      "generated_at": "2026-06-17T06:13:40.093586"
+    },
+    {
+      "english": "Embrace rhythm, dance words.",
+      "french": "Accoste le rythme, danse en mots.",
+      "category": "Joy",
+      "generated_at": "2026-06-17T06:13:40.093587"
     }
   ],
-  "last_updated": "2026-06-16T23:22:51.166050"
+  "last_updated": "2026-06-17T06:13:40.093589"
 }
