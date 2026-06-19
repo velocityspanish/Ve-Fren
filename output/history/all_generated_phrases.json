@@ -10139,7 +10139,37 @@
       "french": "Formez son, creusez joie.",
       "category": "Joy",
       "generated_at": "2026-06-19T15:58:53.563791"
+    },
+    {
+      "english": "Your voice, a lovely sound.",
+      "french": "Ta voix, un son si doux.",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T17:52:29.393994"
+    },
+    {
+      "english": "Learning flows, enjoy it.",
+      "french": "L'apprentissage coule, profite.",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T17:52:29.394003"
+    },
+    {
+      "english": "A new word learned, hooray!",
+      "french": "Un mot nouveau, youpi !",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T17:52:29.394005"
+    },
+    {
+      "english": "Understanding shines, happy smile.",
+      "french": "Le sens brille, sourire joyeux.",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T17:52:29.394006"
+    },
+    {
+      "english": "Say it right, feel proud.",
+      "french": "Dites-le juste, soyez fier.",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T17:52:29.394008"
     }
   ],
-  "last_updated": "2026-06-19T15:58:53.563793"
+  "last_updated": "2026-06-19T17:52:29.394009"
 }
