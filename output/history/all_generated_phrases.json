@@ -10349,7 +10349,37 @@
       "french": "Poussée avant, débloque portes.",
       "category": "Perseverance",
       "generated_at": "2026-06-20T20:21:21.113765"
+    },
+    {
+      "english": "Patience, holds the road.",
+      "french": "La patience, trace le chemin.",
+      "category": "Patience",
+      "generated_at": "2026-06-20T23:05:15.008203"
+    },
+    {
+      "english": "Wait, watch it bloom.",
+      "french": "Attends, regarde les fleurs.",
+      "category": "Patience",
+      "generated_at": "2026-06-20T23:05:15.008216"
+    },
+    {
+      "english": "Quiet heart, hears wisdom.",
+      "french": "Coeur tranquille, entend sagesse.",
+      "category": "Patience",
+      "generated_at": "2026-06-20T23:05:15.008217"
+    },
+    {
+      "english": "Take it slow, adapt.",
+      "french": "Va lentement, adapte-toi.",
+      "category": "Patience",
+      "generated_at": "2026-06-20T23:05:15.008219"
+    },
+    {
+      "english": "Focus, then adjust.",
+      "french": "Concentre-toi, puis ajuste.",
+      "category": "Patience",
+      "generated_at": "2026-06-20T23:05:15.008220"
     }
   ],
-  "last_updated": "2026-06-20T20:21:21.113767"
+  "last_updated": "2026-06-20T23:05:15.008222"
 }
