@@ -11249,7 +11249,37 @@
       "french": "Progrès ressenti, esprit libre.",
       "category": "Happiness",
       "generated_at": "2026-06-26T20:49:38.776427"
+    },
+    {
+      "english": "Climb cliffs, reach higher.",
+      "french": "Grimper falaises, atteindre plus haut.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-26T23:03:38.310304"
+    },
+    {
+      "english": "Push through tough soil.",
+      "french": "Pousser terre dure.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-26T23:03:38.310315"
+    },
+    {
+      "english": "Branches bend, not break.",
+      "french": "Rames plient, non cassent.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-26T23:03:38.310317"
+    },
+    {
+      "english": "Swim against flowing tide.",
+      "french": "Nager contre courant.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-26T23:03:38.310318"
+    },
+    {
+      "english": "Bloom through summer heat.",
+      "french": "Fleurir chaleur été.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-26T23:03:38.310319"
     }
   ],
-  "last_updated": "2026-06-26T20:49:38.776429"
+  "last_updated": "2026-06-26T23:03:38.310321"
 }
