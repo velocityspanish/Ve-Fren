@@ -12449,7 +12449,37 @@
       "french": "Demande, puis apprends chaque pas.",
       "category": "Growth",
       "generated_at": "2026-07-04T22:56:03.190462"
+    },
+    {
+      "english": "Your voice matters now, speak.",
+      "french": "Ta voix compte maintenant, parle.",
+      "category": "Confidence",
+      "generated_at": "2026-07-05T04:58:11.669475"
+    },
+    {
+      "english": "Try hearing, really here.",
+      "french": "Essaie d'écouter, vraiment ici.",
+      "category": "Confidence",
+      "generated_at": "2026-07-05T04:58:11.669485"
+    },
+    {
+      "english": "Fresh words, feel them.",
+      "french": "Fraîches paroles, sens-les.",
+      "category": "Confidence",
+      "generated_at": "2026-07-05T04:58:11.669487"
+    },
+    {
+      "english": "Unlock phrases, start today.",
+      "french": "Déverrouille les phrases, débute aujourd'hui.",
+      "category": "Confidence",
+      "generated_at": "2026-07-05T04:58:11.669488"
+    },
+    {
+      "english": "Breathe this language, exhale doubt.",
+      "french": "Inspire cette langue, expire le doute.",
+      "category": "Confidence",
+      "generated_at": "2026-07-05T04:58:11.669489"
     }
   ],
-  "last_updated": "2026-07-04T22:56:03.190467"
+  "last_updated": "2026-07-05T04:58:11.669491"
 }
