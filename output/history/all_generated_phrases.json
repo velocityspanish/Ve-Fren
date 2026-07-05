@@ -12509,7 +12509,37 @@
       "french": "Apprends racines, puis fleurissent mots.",
       "category": "Inspiration",
       "generated_at": "2026-07-05T14:41:34.546411"
+    },
+    {
+      "english": "Nice try, learn more.",
+      "french": "Bon essai, apprends encore.",
+      "category": "Confidence",
+      "generated_at": "2026-07-05T17:04:22.776777"
+    },
+    {
+      "english": "Almost there, keep going.",
+      "french": "Presque, continue d'avancer.",
+      "category": "Confidence",
+      "generated_at": "2026-07-05T17:04:22.776785"
+    },
+    {
+      "english": "Word understood, excellent.",
+      "french": "Mot compris, c'est excellent.",
+      "category": "Confidence",
+      "generated_at": "2026-07-05T17:04:22.776787"
+    },
+    {
+      "english": "French is blooming now.",
+      "french": "Le français fleurit. Voilà.",
+      "category": "Confidence",
+      "generated_at": "2026-07-05T17:04:22.776788"
+    },
+    {
+      "english": "That sentence, felt great.",
+      "french": "Cette phrase, bien ressentie.",
+      "category": "Confidence",
+      "generated_at": "2026-07-05T17:04:22.776789"
     }
   ],
-  "last_updated": "2026-07-05T14:41:34.546413"
+  "last_updated": "2026-07-05T17:04:22.776791"
 }
