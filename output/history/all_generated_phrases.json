@@ -12719,7 +12719,37 @@
       "french": "Confiance. s'élance.",
       "category": "Strength",
       "generated_at": "2026-07-06T20:56:11.991468"
+    },
+    {
+      "english": "Whispers of change, bloom.",
+      "french": "Murmures de changement, fleurissez.",
+      "category": "Hope",
+      "generated_at": "2026-07-06T23:04:14.430132"
+    },
+    {
+      "english": "A quiet light, grows steadily.",
+      "french": "Une lumière tranquille, grandit sans cesse.",
+      "category": "Hope",
+      "generated_at": "2026-07-06T23:04:14.430144"
+    },
+    {
+      "english": "Open horizons, welcome.",
+      "french": "Ouvrez les horizons, ils bienvenus.",
+      "category": "Hope",
+      "generated_at": "2026-07-06T23:04:14.430145"
+    },
+    {
+      "english": "Each phrase felt, a new dawn.",
+      "french": "Chaque phrase sentie, une nouvelle aube.",
+      "category": "Hope",
+      "generated_at": "2026-07-06T23:04:14.430147"
+    },
+    {
+      "english": "Follow the song, find your way.",
+      "french": "Suivez la chanson, trouvez votre chemin.",
+      "category": "Hope",
+      "generated_at": "2026-07-06T23:04:14.430148"
     }
   ],
-  "last_updated": "2026-07-06T20:56:11.991470"
+  "last_updated": "2026-07-06T23:04:14.430149"
 }
