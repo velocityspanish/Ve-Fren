@@ -12599,7 +12599,37 @@
       "french": "Son trouve sa place.",
       "category": "Gratitude",
       "generated_at": "2026-07-05T22:58:54.669495"
+    },
+    {
+      "english": "Speak first, refine later.",
+      "french": "Parlez d'abord, affinez après.",
+      "category": "Confidence",
+      "generated_at": "2026-07-06T05:13:27.319754"
+    },
+    {
+      "english": "Your voice awakens possibility.",
+      "french": "Votre voix éveille le possible.",
+      "category": "Confidence",
+      "generated_at": "2026-07-06T05:13:27.319763"
+    },
+    {
+      "english": "Open your mouth, hear words.",
+      "french": "Ouvrez la bouche, entendez des mots.",
+      "category": "Confidence",
+      "generated_at": "2026-07-06T05:13:27.319765"
+    },
+    {
+      "english": "Dare to talk, now, freely.",
+      "french": "Osez parler, maintenant, librement.",
+      "category": "Confidence",
+      "generated_at": "2026-07-06T05:13:27.319766"
+    },
+    {
+      "english": "Breathe deep, let French form.",
+      "french": "Respirez fort, laissez le français venir.",
+      "category": "Confidence",
+      "generated_at": "2026-07-06T05:13:27.319767"
     }
   ],
-  "last_updated": "2026-07-05T22:58:54.669496"
+  "last_updated": "2026-07-06T05:13:27.319782"
 }
