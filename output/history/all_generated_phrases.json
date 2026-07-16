@@ -14129,7 +14129,37 @@
       "french": "Respire profond, monte plus.",
       "category": "Courage",
       "generated_at": "2026-07-16T17:10:03.354101"
+    },
+    {
+      "english": "Whisper your truth, bravely.",
+      "french": "Murmurez votre vérité, courageusement.",
+      "category": "Confidence",
+      "generated_at": "2026-07-16T22:56:13.665594"
+    },
+    {
+      "english": "Spark ignited, self found.",
+      "french": "Étincelle allumée, moi découverte.",
+      "category": "Confidence",
+      "generated_at": "2026-07-16T22:56:13.665605"
+    },
+    {
+      "english": "Your voice echoes, clearly.",
+      "french": "Votre voix résonne, clairement.",
+      "category": "Confidence",
+      "generated_at": "2026-07-16T22:56:13.665607"
+    },
+    {
+      "english": "Inner compass leads forward.",
+      "french": "La boussole intérieure guide.",
+      "category": "Confidence",
+      "generated_at": "2026-07-16T22:56:13.665608"
+    },
+    {
+      "english": "Breathe deep, then release.",
+      "french": "Respirez profondément, puis libérez.",
+      "category": "Confidence",
+      "generated_at": "2026-07-16T22:56:13.665610"
     }
   ],
-  "last_updated": "2026-07-16T17:10:03.354103"
+  "last_updated": "2026-07-16T22:56:13.665611"
 }
