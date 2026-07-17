@@ -14279,7 +14279,37 @@
       "french": "Jeunes pousses s'élèvent, doucement.",
       "category": "Hope",
       "generated_at": "2026-07-17T20:13:02.548197"
+    },
+    {
+      "english": "Dare to try, speak sooner.",
+      "french": "Osez tenter, parlez plus tôt.",
+      "category": "Purpose",
+      "generated_at": "2026-07-17T22:46:13.091008"
+    },
+    {
+      "english": "Listen well, respond better.",
+      "french": "Écoutez bien, répondez mieux.",
+      "category": "Purpose",
+      "generated_at": "2026-07-17T22:46:13.091023"
+    },
+    {
+      "english": "Tiny phrases, giant leaps.",
+      "french": "Phrases minuscules, sauts géants.",
+      "category": "Purpose",
+      "generated_at": "2026-07-17T22:46:13.091024"
+    },
+    {
+      "english": "Connect words, build bridges.",
+      "french": "Reliez mots, bâtissez ponts.",
+      "category": "Purpose",
+      "generated_at": "2026-07-17T22:46:13.091026"
+    },
+    {
+      "english": "Fluent thought, a quiet journey.",
+      "french": "Esprit fluent, voyage serein.",
+      "category": "Purpose",
+      "generated_at": "2026-07-17T22:46:13.091027"
     }
   ],
-  "last_updated": "2026-07-17T20:13:02.548198"
+  "last_updated": "2026-07-17T22:46:13.091029"
 }
