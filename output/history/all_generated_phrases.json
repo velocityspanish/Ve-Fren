@@ -14309,7 +14309,37 @@
       "french": "Esprit fluent, voyage serein.",
       "category": "Purpose",
       "generated_at": "2026-07-17T22:46:13.091027"
+    },
+    {
+      "english": "Try, act now.",
+      "french": "Essaie, agis maintenant.",
+      "category": "Courage",
+      "generated_at": "2026-07-18T03:55:49.278360"
+    },
+    {
+      "english": "Speak up, fly high.",
+      "french": "Parlez, envolez-vous.",
+      "category": "Courage",
+      "generated_at": "2026-07-18T03:55:49.278370"
+    },
+    {
+      "english": "Leap now, wings grow.",
+      "french": "Saute, ailes poussent.",
+      "category": "Courage",
+      "generated_at": "2026-07-18T03:55:49.278371"
+    },
+    {
+      "english": "Face fears, advance, then.",
+      "french": "Affrontez, progressez.",
+      "category": "Courage",
+      "generated_at": "2026-07-18T03:55:49.278372"
+    },
+    {
+      "english": "Dare, seize chances.",
+      "french": "Osez, saisissez chances.",
+      "category": "Courage",
+      "generated_at": "2026-07-18T03:55:49.278374"
     }
   ],
-  "last_updated": "2026-07-17T22:46:13.091029"
+  "last_updated": "2026-07-18T03:55:49.278375"
 }
