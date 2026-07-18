@@ -14339,7 +14339,37 @@
       "french": "Osez, saisissez chances.",
       "category": "Courage",
       "generated_at": "2026-07-18T03:55:49.278374"
+    },
+    {
+      "english": "Courage awakens, words follow.",
+      "french": "Le courage s'éveille, les mots suivent.",
+      "category": "Success",
+      "generated_at": "2026-07-18T14:19:20.948849"
+    },
+    {
+      "english": "Each sound, a key unlocked.",
+      "french": "Chaque son, une clé déverrouillée.",
+      "category": "Success",
+      "generated_at": "2026-07-18T14:19:20.948861"
+    },
+    {
+      "english": "Your silence held wisdom.",
+      "french": "Ton silence gardait la sagesse.",
+      "category": "Success",
+      "generated_at": "2026-07-18T14:19:20.948863"
+    },
+    {
+      "english": "Explore within, speak aloud.",
+      "french": "Explore en toi, parle fort.",
+      "category": "Success",
+      "generated_at": "2026-07-18T14:19:20.948864"
+    },
+    {
+      "english": "Vulnerability fosters learning.",
+      "french": "La vulnérabilité favorise l'apprentissage.",
+      "category": "Success",
+      "generated_at": "2026-07-18T14:19:20.948865"
     }
   ],
-  "last_updated": "2026-07-18T03:55:49.278375"
+  "last_updated": "2026-07-18T14:19:20.948867"
 }
