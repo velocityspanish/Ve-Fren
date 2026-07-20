@@ -14639,7 +14639,37 @@
       "french": "Cette phrase dites. Fière.",
       "category": "Courage",
       "generated_at": "2026-07-20T04:36:43.287226"
+    },
+    {
+      "english": "Inner peace, fuels growth.",
+      "french": "Paix intérieure, nourrit la croissance.",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T15:10:29.842040"
+    },
+    {
+      "english": "Your strength, lies within.",
+      "french": "Ta force, réside dedans.",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T15:10:29.842052"
+    },
+    {
+      "english": "Listen close, secrets bloom.",
+      "french": "Écoute attentive, secrets éclosent.",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T15:10:29.842053"
+    },
+    {
+      "english": "Find joy, in self-knowing.",
+      "french": "Trouve la joie, en te connaissant.",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T15:10:29.842055"
+    },
+    {
+      "english": "Quiet doubt, ignite brilliance.",
+      "french": "Tais le doute, allume l'éclat.",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T15:10:29.842056"
     }
   ],
-  "last_updated": "2026-07-20T04:36:43.287228"
+  "last_updated": "2026-07-20T15:10:29.842057"
 }
