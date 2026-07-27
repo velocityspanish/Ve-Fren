@@ -15689,7 +15689,37 @@
       "french": "Garde la paix dans les lieux animés.",
       "category": "Purpose",
       "generated_at": "2026-07-27T15:41:39.782059"
+    },
+    {
+      "english": "Slow down, let it land.",
+      "french": "Ralentis, laisse tomber.",
+      "category": "Patience",
+      "generated_at": "2026-07-27T17:40:30.293594"
+    },
+    {
+      "english": "Breathe; the next step arrives.",
+      "french": "Respire; le prochain pas vient.",
+      "category": "Patience",
+      "generated_at": "2026-07-27T17:40:30.293605"
+    },
+    {
+      "english": "Wait like a calm river.",
+      "french": "Attends comme une rivière calme.",
+      "category": "Patience",
+      "generated_at": "2026-07-27T17:40:30.293607"
+    },
+    {
+      "english": "Time will open the door.",
+      "french": "Le temps ouvrira la porte.",
+      "category": "Patience",
+      "generated_at": "2026-07-27T17:40:30.293608"
+    },
+    {
+      "english": "Plant hope, then pause.",
+      "french": "Sème l’espoir, puis fais une pause.",
+      "category": "Patience",
+      "generated_at": "2026-07-27T17:40:30.293610"
     }
   ],
-  "last_updated": "2026-07-27T15:41:39.782061"
+  "last_updated": "2026-07-27T17:40:30.293611"
 }
