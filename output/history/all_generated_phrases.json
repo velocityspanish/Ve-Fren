@@ -15929,7 +15929,37 @@
       "french": "Faites des erreurs, souriez",
       "category": "Confidence",
       "generated_at": "2026-07-30T15:09:27.394449"
+    },
+    {
+      "english": "Hope speaks first, act next",
+      "french": "L’espoir parle d’abord, puis agissez",
+      "category": "Hope",
+      "generated_at": "2026-07-31T04:23:59.446842"
+    },
+    {
+      "english": "Question doubt, choose movement",
+      "french": "Doutez moins, avancez quand même",
+      "category": "Hope",
+      "generated_at": "2026-07-31T04:23:59.446852"
+    },
+    {
+      "english": "Hope needs your hands now",
+      "french": "L’espoir veut vos mains maintenant",
+      "category": "Hope",
+      "generated_at": "2026-07-31T04:23:59.446854"
+    },
+    {
+      "english": "Let reality sharpen your hope",
+      "french": "La réalité aiguise l’espoir",
+      "category": "Hope",
+      "generated_at": "2026-07-31T04:23:59.446855"
+    },
+    {
+      "english": "Turn fear into direction",
+      "french": "Transformez la peur en cap",
+      "category": "Hope",
+      "generated_at": "2026-07-31T04:23:59.446856"
     }
   ],
-  "last_updated": "2026-07-30T15:09:27.394451"
+  "last_updated": "2026-07-31T04:23:59.446858"
 }
