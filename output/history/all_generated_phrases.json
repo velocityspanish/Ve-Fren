@@ -15989,7 +15989,37 @@
       "french": "Lâche, puis tiens bon.",
       "category": "Balance",
       "generated_at": "2026-07-31T15:19:39.643605"
+    },
+    {
+      "english": "Tiny steps, loud progress.",
+      "french": "Petits pas, grande avancée.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T17:25:35.280097"
+    },
+    {
+      "english": "Start messy; improve on purpose.",
+      "french": "Commence imparfait, corrige exprès.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T17:25:35.280111"
+    },
+    {
+      "english": "Choose one move, make it count.",
+      "french": "Choisis un geste, fais-le compter.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T17:25:35.280113"
+    },
+    {
+      "english": "Your patience is building muscle.",
+      "french": "Ta patience forge tes muscles.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T17:25:35.280114"
+    },
+    {
+      "english": "Keep the promise you made to you.",
+      "french": "Tiens la promesse que tu t’es faite.",
+      "category": "Motivation",
+      "generated_at": "2026-07-31T17:25:35.280115"
     }
   ],
-  "last_updated": "2026-07-31T15:19:39.643607"
+  "last_updated": "2026-07-31T17:25:35.280117"
 }
