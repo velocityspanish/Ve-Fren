@@ -16169,7 +16169,37 @@
       "french": "Continue, même doucement.",
       "category": "Strength",
       "generated_at": "2026-08-01T22:52:52.381813"
+    },
+    {
+      "english": "I’m sure, and calm about it.",
+      "french": "Je suis sûr, et calme.",
+      "category": "Confidence",
+      "generated_at": "2026-08-02T04:25:21.272130"
+    },
+    {
+      "english": "Trust me—I’ve checked twice.",
+      "french": "Fais-moi confiance, j’ai vérifié deux fois.",
+      "category": "Confidence",
+      "generated_at": "2026-08-02T04:25:21.272151"
+    },
+    {
+      "english": "I’ve got a steady handle on this.",
+      "french": "J’ai une prise solide sur ça.",
+      "category": "Confidence",
+      "generated_at": "2026-08-02T04:25:21.272153"
+    },
+    {
+      "english": "This feels right in my bones.",
+      "french": "Ça me paraît juste, au plus profond.",
+      "category": "Confidence",
+      "generated_at": "2026-08-02T04:25:21.272154"
+    },
+    {
+      "english": "I know my next step clearly.",
+      "french": "Je vois clairement ma prochaine étape.",
+      "category": "Confidence",
+      "generated_at": "2026-08-02T04:25:21.272155"
     }
   ],
-  "last_updated": "2026-08-01T22:52:52.381815"
+  "last_updated": "2026-08-02T04:25:21.272157"
 }
