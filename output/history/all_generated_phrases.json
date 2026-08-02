@@ -16199,7 +16199,37 @@
       "french": "Je vois clairement ma prochaine étape.",
       "category": "Confidence",
       "generated_at": "2026-08-02T04:25:21.272155"
+    },
+    {
+      "english": "Keep the next step small.",
+      "french": "Garde le prochain pas minuscule.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-02T14:28:57.547528"
+    },
+    {
+      "english": "Return to the work, not the worry.",
+      "french": "Reviens au travail, pas à l’inquiétude.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-02T14:28:57.547538"
+    },
+    {
+      "english": "Practice again, even softly.",
+      "french": "Repratique encore, même doucement.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-02T14:28:57.547540"
+    },
+    {
+      "english": "Move forward at your own pace.",
+      "french": "Avance à ton rythme.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-02T14:28:57.547541"
+    },
+    {
+      "english": "Let effort outlast mood.",
+      "french": "Fais durer l’effort plus longtemps que l’humeur.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-02T14:28:57.547542"
     }
   ],
-  "last_updated": "2026-08-02T04:25:21.272157"
+  "last_updated": "2026-08-02T14:28:57.547544"
 }
