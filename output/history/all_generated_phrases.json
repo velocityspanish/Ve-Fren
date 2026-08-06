@@ -16709,7 +16709,37 @@
       "french": "Mes doutes, pas ma boussole",
       "category": "Perseverance",
       "generated_at": "2026-08-06T04:13:56.832855"
+    },
+    {
+      "english": "Pause, then soften your mind",
+      "french": "Pause, adoucis ton esprit",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-06T15:11:51.694033"
+    },
+    {
+      "english": "Let texts wait, breathe first",
+      "french": "Fais attendre tes messages, respire",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-06T15:11:51.694042"
+    },
+    {
+      "english": "Choose calm, lower your volume",
+      "french": "Choisis le calme, baisse",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-06T15:11:51.694044"
+    },
+    {
+      "english": "Release the loop, return now",
+      "french": "Lâche la boucle, reviens",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-06T15:11:51.694045"
+    },
+    {
+      "english": "Guard your focus, ignore noise",
+      "french": "Protège ton attention, ignore",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-06T15:11:51.694046"
     }
   ],
-  "last_updated": "2026-08-06T04:13:56.832857"
+  "last_updated": "2026-08-06T15:11:51.694048"
 }
