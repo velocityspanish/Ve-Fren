@@ -17009,7 +17009,37 @@
       "french": "Voix calme, journée équilibrée",
       "category": "Balance",
       "generated_at": "2026-08-08T13:43:40.538116"
+    },
+    {
+      "english": "Speak kindly, even when stuck",
+      "french": "Parle gentiment, même coincé",
+      "category": "Purpose",
+      "generated_at": "2026-08-08T16:27:00.080831"
+    },
+    {
+      "english": "Ask questions, then relax",
+      "french": "Pose des questions, puis respire",
+      "category": "Purpose",
+      "generated_at": "2026-08-08T16:27:00.080842"
+    },
+    {
+      "english": "Write notes, carry them everywhere",
+      "french": "Note tout, emporte-le partout",
+      "category": "Purpose",
+      "generated_at": "2026-08-08T16:27:00.080844"
+    },
+    {
+      "english": "Practice aloud, let it flow",
+      "french": "Répète à voix haute, laisse",
+      "category": "Purpose",
+      "generated_at": "2026-08-08T16:27:00.080845"
+    },
+    {
+      "english": "Learn one pattern, use it",
+      "french": "Apprends un modèle, utilise-le",
+      "category": "Purpose",
+      "generated_at": "2026-08-08T16:27:00.080846"
     }
   ],
-  "last_updated": "2026-08-08T13:43:40.538118"
+  "last_updated": "2026-08-08T16:27:00.080848"
 }
