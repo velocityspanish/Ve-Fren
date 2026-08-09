@@ -17189,7 +17189,37 @@
       "french": "Dis moins, ressens plus clair",
       "category": "Wisdom",
       "generated_at": "2026-08-09T16:28:14.085786"
+    },
+    {
+      "english": "Speak softly, help right now",
+      "french": "Parle doucement, aide maintenant",
+      "category": "Kindness",
+      "generated_at": "2026-08-09T19:39:53.288061"
+    },
+    {
+      "english": "Offer respect, no matter what",
+      "french": "Offre du respect, quoi qu'il arrive",
+      "category": "Kindness",
+      "generated_at": "2026-08-09T19:39:53.288072"
+    },
+    {
+      "english": "Turn away from harsh words",
+      "french": "Éloigne les mots durs",
+      "category": "Kindness",
+      "generated_at": "2026-08-09T19:39:53.288074"
+    },
+    {
+      "english": "Notice needs, then respond",
+      "french": "Vois les besoins, puis réponds",
+      "category": "Kindness",
+      "generated_at": "2026-08-09T19:39:53.288075"
+    },
+    {
+      "english": "Warm up your tone, instantly",
+      "french": "Adoucis ta voix, tout de suite",
+      "category": "Kindness",
+      "generated_at": "2026-08-09T19:39:53.288076"
     }
   ],
-  "last_updated": "2026-08-09T16:28:14.085788"
+  "last_updated": "2026-08-09T19:39:53.288078"
 }
