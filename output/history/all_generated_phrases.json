@@ -18089,7 +18089,37 @@
       "french": "Parle haut, prends ta place",
       "category": "Strength",
       "generated_at": "2026-08-15T16:18:27.241053"
+    },
+    {
+      "english": "Quiet courage, I grow",
+      "french": "Courage discret, je grandis",
+      "category": "Growth",
+      "generated_at": "2026-08-15T19:27:33.482781"
+    },
+    {
+      "english": "I discover myself, without rush",
+      "french": "Je me découvre, sans hâte",
+      "category": "Growth",
+      "generated_at": "2026-08-15T19:27:33.482791"
+    },
+    {
+      "english": "My doubts soften, my focus sharpens",
+      "french": "Mes doutes s’adoucissent, mon focus s’aiguise",
+      "category": "Growth",
+      "generated_at": "2026-08-15T19:27:33.482792"
+    },
+    {
+      "english": "Breathe deeper, choose truth",
+      "french": "Inspire plus, choisis la vérité",
+      "category": "Growth",
+      "generated_at": "2026-08-15T19:27:33.482794"
+    },
+    {
+      "english": "I stand tall, inside",
+      "french": "Je tiens debout, en moi",
+      "category": "Growth",
+      "generated_at": "2026-08-15T19:27:33.482795"
     }
   ],
-  "last_updated": "2026-08-15T16:18:27.241055"
+  "last_updated": "2026-08-15T19:27:33.482796"
 }
