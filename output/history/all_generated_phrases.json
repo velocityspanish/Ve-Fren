@@ -18239,7 +18239,37 @@
       "french": "Mon esprit s’éclaircit, l’espoir monte",
       "category": "Hope",
       "generated_at": "2026-08-16T16:18:56.127001"
+    },
+    {
+      "english": "You decide, then act",
+      "french": "Tu décides, puis tu agis",
+      "category": "Confidence",
+      "generated_at": "2026-08-16T19:27:06.722375"
+    },
+    {
+      "english": "Start now, with steady courage",
+      "french": "Commence maintenant, avec courage",
+      "category": "Confidence",
+      "generated_at": "2026-08-16T19:27:06.722385"
+    },
+    {
+      "english": "Speak up, you own your voice",
+      "french": "Parle fort, ta voix compte",
+      "category": "Confidence",
+      "generated_at": "2026-08-16T19:27:06.722386"
+    },
+    {
+      "english": "Breathe through it, keep moving",
+      "french": "Respire, traverse, continue",
+      "category": "Confidence",
+      "generated_at": "2026-08-16T19:27:06.722388"
+    },
+    {
+      "english": "Make space, let fear shrink",
+      "french": "Fais de la place, la peur diminue",
+      "category": "Confidence",
+      "generated_at": "2026-08-16T19:27:06.722389"
     }
   ],
-  "last_updated": "2026-08-16T16:18:56.127003"
+  "last_updated": "2026-08-16T19:27:06.722391"
 }
