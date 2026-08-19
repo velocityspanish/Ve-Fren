@@ -18629,7 +18629,37 @@
       "french": "Des erreurs, pas des monstres",
       "category": "Confidence",
       "generated_at": "2026-08-19T02:20:37.258645"
+    },
+    {
+      "english": "Speak up, breathe first",
+      "french": "Parle, respire d’abord",
+      "category": "Courage",
+      "generated_at": "2026-08-19T13:51:22.104990"
+    },
+    {
+      "english": "Try again, even quietly",
+      "french": "Essaie encore, même doucement",
+      "category": "Courage",
+      "generated_at": "2026-08-19T13:51:22.104999"
+    },
+    {
+      "english": "Courage rises, with practice",
+      "french": "Le courage monte, par pratique",
+      "category": "Courage",
+      "generated_at": "2026-08-19T13:51:22.105001"
+    },
+    {
+      "english": "One brave thought, released",
+      "french": "Une pensée courageuse, libérée",
+      "category": "Courage",
+      "generated_at": "2026-08-19T13:51:22.105002"
+    },
+    {
+      "english": "Walk forward, feel lighter",
+      "french": "Avance, tu te sens plus léger",
+      "category": "Courage",
+      "generated_at": "2026-08-19T13:51:22.105003"
     }
   ],
-  "last_updated": "2026-08-19T02:20:37.258647"
+  "last_updated": "2026-08-19T13:51:22.105005"
 }
