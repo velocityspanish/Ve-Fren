@@ -19709,7 +19709,37 @@
       "french": "Bougez le corps, le calme suit",
       "category": "Strength",
       "generated_at": "2026-08-26T13:53:05.044861"
+    },
+    {
+      "english": "Climb fear, leave roots behind",
+      "french": "Grimpe la peur, laisse des racines",
+      "category": "Courage",
+      "generated_at": "2026-08-26T16:45:30.957207"
+    },
+    {
+      "english": "Storm talks, you steer calmly",
+      "french": "La tempête parle, tu gouvernes calmement",
+      "category": "Courage",
+      "generated_at": "2026-08-26T16:45:30.957218"
+    },
+    {
+      "english": "Dare the dark, find starlight",
+      "french": "Ose l’ombre, trouve la lumière",
+      "category": "Courage",
+      "generated_at": "2026-08-26T16:45:30.957220"
+    },
+    {
+      "english": "Courage ripens like summer fruit",
+      "french": "Le courage mûrit, comme fruit d’été",
+      "category": "Courage",
+      "generated_at": "2026-08-26T16:45:30.957221"
+    },
+    {
+      "english": "Hold your breath, cross the river",
+      "french": "Garde ton souffle, traverse la rivière",
+      "category": "Courage",
+      "generated_at": "2026-08-26T16:45:30.957223"
     }
   ],
-  "last_updated": "2026-08-26T13:53:05.044863"
+  "last_updated": "2026-08-26T16:45:30.957224"
 }
