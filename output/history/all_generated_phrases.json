@@ -20189,7 +20189,37 @@
       "french": "Reste ici, fais le suivant",
       "category": "Patience",
       "generated_at": "2026-08-29T19:06:48.776685"
+    },
+    {
+      "english": "Breathe slowly, let words land",
+      "french": "Respire lentement, laisse tomber",
+      "category": "Patience",
+      "generated_at": "2026-08-29T21:38:52.180031"
+    },
+    {
+      "english": "Pause kindly, hear your progress",
+      "french": "Fais une pause, écoute",
+      "category": "Patience",
+      "generated_at": "2026-08-29T21:38:52.180040"
+    },
+    {
+      "english": "Hold silence, translation arrives",
+      "french": "Garde le silence, ça vient",
+      "category": "Patience",
+      "generated_at": "2026-08-29T21:38:52.180041"
+    },
+    {
+      "english": "Step back, read the calm",
+      "french": "Recule, lis le calme",
+      "category": "Patience",
+      "generated_at": "2026-08-29T21:38:52.180042"
+    },
+    {
+      "english": "Gentle hours, steady your heart",
+      "french": "Heures douces, cœur stable",
+      "category": "Patience",
+      "generated_at": "2026-08-29T21:38:52.180043"
     }
   ],
-  "last_updated": "2026-08-29T19:06:48.776687"
+  "last_updated": "2026-08-29T21:38:52.180044"
 }
