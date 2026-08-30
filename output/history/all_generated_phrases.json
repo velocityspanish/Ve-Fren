@@ -20339,7 +20339,37 @@
       "french": "Pose des limites, protège ton énergie",
       "category": "Balance",
       "generated_at": "2026-08-30T19:00:46.800847"
+    },
+    {
+      "english": "Act now, learn fast",
+      "french": "Agis maintenant, apprends vite",
+      "category": "Wisdom",
+      "generated_at": "2026-08-30T21:53:27.776699"
+    },
+    {
+      "english": "Speak up, make space",
+      "french": "Parle haut, fais de la place",
+      "category": "Wisdom",
+      "generated_at": "2026-08-30T21:53:27.776708"
+    },
+    {
+      "english": "Move forward, trust effort",
+      "french": "Avance, fais confiance à l'effort",
+      "category": "Wisdom",
+      "generated_at": "2026-08-30T21:53:27.776709"
+    },
+    {
+      "english": "Choose courage, cut noise",
+      "french": "Choisis le courage, coupe le bruit",
+      "category": "Wisdom",
+      "generated_at": "2026-08-30T21:53:27.776710"
+    },
+    {
+      "english": "Start clean, revise often",
+      "french": "Commence clair, révise souvent",
+      "category": "Wisdom",
+      "generated_at": "2026-08-30T21:53:27.776712"
     }
   ],
-  "last_updated": "2026-08-30T19:00:46.800849"
+  "last_updated": "2026-08-30T21:53:27.776714"
 }
