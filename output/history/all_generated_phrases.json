@@ -20399,7 +20399,37 @@
       "french": "Des erreurs, puis une voix douce",
       "category": "Purpose",
       "generated_at": "2026-08-31T00:11:22.496235"
+    },
+    {
+      "english": "Ask gently, then listen",
+      "french": "Demande doucement, puis écoute",
+      "category": "Growth",
+      "generated_at": "2026-08-31T06:45:08.175209"
+    },
+    {
+      "english": "Let fear pass, softly",
+      "french": "Laisse la peur passer, doucement",
+      "category": "Growth",
+      "generated_at": "2026-08-31T06:45:08.175221"
+    },
+    {
+      "english": "Correct me, without shame",
+      "french": "Corrige-moi, sans honte",
+      "category": "Growth",
+      "generated_at": "2026-08-31T06:45:08.175223"
+    },
+    {
+      "english": "Speak again, with kindness",
+      "french": "Reparle, avec bienveillance",
+      "category": "Growth",
+      "generated_at": "2026-08-31T06:45:08.175225"
+    },
+    {
+      "english": "Keep your tone, steady",
+      "french": "Garde ton ton, stable",
+      "category": "Growth",
+      "generated_at": "2026-08-31T06:45:08.175226"
     }
   ],
-  "last_updated": "2026-08-31T00:11:22.496236"
+  "last_updated": "2026-08-31T06:45:08.175240"
 }
