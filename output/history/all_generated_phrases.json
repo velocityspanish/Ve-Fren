@@ -20909,7 +20909,37 @@
       "french": "J’écoute, puis je réponds",
       "category": "Balance",
       "generated_at": "2026-09-03T16:56:29.807923"
+    },
+    {
+      "english": "Smile first, speak after",
+      "french": "Souris d'abord, parle après",
+      "category": "Joy",
+      "generated_at": "2026-09-03T19:03:30.869216"
+    },
+    {
+      "english": "Joy is your secret tutor",
+      "french": "La joie te fait progresser",
+      "category": "Joy",
+      "generated_at": "2026-09-03T19:03:30.869226"
+    },
+    {
+      "english": "Listen closely, then answer",
+      "french": "Écoute bien, puis réponds",
+      "category": "Joy",
+      "generated_at": "2026-09-03T19:03:30.869228"
+    },
+    {
+      "english": "Say it again, softer",
+      "french": "Dis-le encore, plus doux",
+      "category": "Joy",
+      "generated_at": "2026-09-03T19:03:30.869228"
+    },
+    {
+      "english": "Warm words, calm your tongue",
+      "french": "Des mots doux, calme ta langue",
+      "category": "Joy",
+      "generated_at": "2026-09-03T19:03:30.869229"
     }
   ],
-  "last_updated": "2026-09-03T16:56:29.807924"
+  "last_updated": "2026-09-03T19:03:30.869231"
 }
