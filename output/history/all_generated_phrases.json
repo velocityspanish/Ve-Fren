@@ -21089,7 +21089,37 @@
       "french": "Mon attention, éclaire le chemin",
       "category": "Happiness",
       "generated_at": "2026-09-04T18:46:49.771105"
+    },
+    {
+      "english": "Breathe out, unclench now",
+      "french": "Expirez, relâchez maintenant",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-04T21:21:39.129442"
+    },
+    {
+      "english": "Scroll less, listen deeper",
+      "french": "Faites moins défiler, écoutez plus",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-04T21:21:39.129453"
+    },
+    {
+      "english": "Notice tension, let it pass",
+      "french": "Observez la tension, laissez-la partir",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-04T21:21:39.129455"
+    },
+    {
+      "english": "Text later, mind stays calm",
+      "french": "Écrivez plus tard, esprit calme",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-04T21:21:39.129456"
+    },
+    {
+      "english": "Fear speaks, I slow",
+      "french": "La peur parle, je ralentis",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-04T21:21:39.129457"
     }
   ],
-  "last_updated": "2026-09-04T18:46:49.771106"
+  "last_updated": "2026-09-04T21:21:39.129459"
 }
